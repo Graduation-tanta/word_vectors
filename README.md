@@ -1,7 +1,7 @@
 # word_vectors
 My implementations for word vector representation algorithms (word2vec and glove) on text8 dataset 
 I also implemented word2vec evaluation as in the paper but the results aren't good and needs more tuning that I leave as future work for me :(
-I pushed my trained wordvectors in the same repo :3 on 15mb so small :)
+I pushed my trained wordvectors in the same repo :3 only 15mb .. so small :)
 
 ## k nearest neighbours are still funny :D
 
