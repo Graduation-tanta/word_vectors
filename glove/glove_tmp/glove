@@ -1,0 +1,3351 @@
+Initialized
+Average loss at step 874/43741: 440.557480 
+Average loss at step 1748/43741: 361.984248 
+Average loss at step 2622/43741: 339.477991 
+Average loss at step 3496/43741: 337.750468 
+Average loss at step 4370/43741: 303.944356 
+Average loss at step 5244/43741: 291.767582 
+Average loss at step 6118/43741: 294.009964 
+Average loss at step 6992/43741: 271.927772 
+Average loss at step 7866/43741: 246.406843 
+Average loss at step 8740/43741: 251.022251 
+Average loss at step 9614/43741: 250.802493 
+Average loss at step 10488/43741: 238.933901 
+Average loss at step 11362/43741: 249.088824 
+Average loss at step 12236/43741: 204.687423 
+Average loss at step 13110/43741: 238.485301 
+Average loss at step 13984/43741: 240.930767 
+Average loss at step 14858/43741: 201.803916 
+Average loss at step 15732/43741: 213.134603 
+Average loss at step 16606/43741: 190.009952 
+Average loss at step 17480/43741: 187.648610 
+Average loss at step 18354/43741: 175.617896 
+Average loss at step 19228/43741: 202.965904 
+Average loss at step 20102/43741: 194.211189 
+Average loss at step 20976/43741: 171.082523 
+Average loss at step 21850/43741: 169.373340 
+Average loss at step 22724/43741: 172.758997 
+Average loss at step 23598/43741: 182.627873 
+Average loss at step 24472/43741: 170.383086 
+Average loss at step 25346/43741: 158.256730 
+Average loss at step 26220/43741: 158.730118 
+Average loss at step 27094/43741: 166.021242 
+Average loss at step 27968/43741: 147.424933 
+Average loss at step 28842/43741: 145.078306 
+Average loss at step 29716/43741: 149.967818 
+Average loss at step 30590/43741: 141.261312 
+Average loss at step 31464/43741: 141.715020 
+Average loss at step 32338/43741: 137.355926 
+Average loss at step 33212/43741: 142.732311 
+Average loss at step 34086/43741: 143.529141 
+Average loss at step 34960/43741: 135.645560 
+Average loss at step 35834/43741: 130.286333 
+Average loss at step 36708/43741: 133.450327 
+Average loss at step 37582/43741: 124.314629 
+Average loss at step 38456/43741: 130.701639 
+Average loss at step 39330/43741: 131.382712 
+Average loss at step 40204/43741: 121.096954 
+Average loss at step 41078/43741: 125.035525 
+Average loss at step 41952/43741: 116.167937 
+Average loss at step 42826/43741: 125.542254 
+Average loss at step 43700/43741: 115.798246 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, textual, annexes, pretty,
+Nearest to copies: usb, shark, creator, county, mouse, supplemented, prc,
+Nearest to custom: consolidating, testified, precision, intend, wynn, chupacabra, aa,
+Nearest to operations: inch, cordillera, uppercase, memorized, menzies, exothermic, finally,
+Nearest to delivered: encroachment, introduce, irregularly, discrepancy, multidimensional, baba, mae,
+Nearest to flash: rfc, tracer, congregation, migrate, neurons, singers, reworked,
+Nearest to earl: bernardo, last, prospered, wetlands, pinky, persona, burials,
+Nearest to instructions: plate, oases, anzus, ij, lombard, detective, summarizes,
+Nearest to shore: hangman, wi, walton, shogun, niro, italian, deserted,
+Nearest to mathematicians: velocity, membranes, bed, platoon, hypothesis, broke, flip,
+Nearest to southern: modulation, landslides, bukhari, preached, inscription, definitively, modified,
+Nearest to secret: turning, asimov, drawbacks, shotguns, intermittently, democracy, equip,
+Nearest to plague: popularize, designers, protestant, brutality, brooks, avignon, eris,
+Nearest to contribution: northside, fred, rowan, evoke, halley, profiles, riga,
+Nearest to constitutional: sticky, psychologically, emilia, thought, failures, temperament, erasmus,
+Nearest to drive: unleashed, pardon, everything, neill, partly, directions, kipling,
+epoch time 245.20442199999997
+Average loss at step 874/43741: 98.191116 
+Average loss at step 1748/43741: 93.410472 
+Average loss at step 2622/43741: 91.286228 
+Average loss at step 3496/43741: 95.993947 
+Average loss at step 4370/43741: 92.371603 
+Average loss at step 5244/43741: 88.749112 
+Average loss at step 6118/43741: 91.413350 
+Average loss at step 6992/43741: 92.874272 
+Average loss at step 7866/43741: 87.365986 
+Average loss at step 8740/43741: 84.878441 
+Average loss at step 9614/43741: 88.818027 
+Average loss at step 10488/43741: 86.620998 
+Average loss at step 11362/43741: 85.113754 
+Average loss at step 12236/43741: 86.106711 
+Average loss at step 13110/43741: 79.545718 
+Average loss at step 13984/43741: 85.049240 
+Average loss at step 14858/43741: 84.282534 
+Average loss at step 15732/43741: 78.085300 
+Average loss at step 16606/43741: 81.292917 
+Average loss at step 17480/43741: 78.136556 
+Average loss at step 18354/43741: 82.499962 
+Average loss at step 19228/43741: 82.479002 
+Average loss at step 20102/43741: 79.316358 
+Average loss at step 20976/43741: 80.683079 
+Average loss at step 21850/43741: 78.188037 
+Average loss at step 22724/43741: 78.983970 
+Average loss at step 23598/43741: 75.937960 
+Average loss at step 24472/43741: 73.834663 
+Average loss at step 25346/43741: 77.159706 
+Average loss at step 26220/43741: 79.678992 
+Average loss at step 27094/43741: 74.228245 
+Average loss at step 27968/43741: 77.800508 
+Average loss at step 28842/43741: 77.379817 
+Average loss at step 29716/43741: 74.474984 
+Average loss at step 30590/43741: 72.181887 
+Average loss at step 31464/43741: 69.327894 
+Average loss at step 32338/43741: 73.700461 
+Average loss at step 33212/43741: 71.771014 
+Average loss at step 34086/43741: 68.463951 
+Average loss at step 34960/43741: 72.628701 
+Average loss at step 35834/43741: 71.114212 
+Average loss at step 36708/43741: 71.020558 
+Average loss at step 37582/43741: 66.863115 
+Average loss at step 38456/43741: 68.417622 
+Average loss at step 39330/43741: 67.004765 
+Average loss at step 40204/43741: 67.401919 
+Average loss at step 41078/43741: 66.000923 
+Average loss at step 41952/43741: 68.420770 
+Average loss at step 42826/43741: 66.273396 
+Average loss at step 43700/43741: 67.304056 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, annexes, textual, pretty,
+Nearest to copies: usb, creator, county, shark, supplemented, prc, mouse,
+Nearest to custom: precision, testified, consolidating, intend, wynn, aa, chupacabra,
+Nearest to operations: inch, cordillera, uppercase, finally, memorized, exothermic, have,
+Nearest to delivered: introduce, encroachment, died, irregularly, multidimensional, baba, discrepancy,
+Nearest to flash: rfc, tracer, migrate, congregation, neurons, singers, tent,
+Nearest to earl: bernardo, last, prospered, wetlands, persona, pinky, baldrick,
+Nearest to instructions: plate, oases, anzus, summarizes, detective, ij, lombard,
+Nearest to shore: hangman, wi, walton, seeds, italian, shogun, niro,
+Nearest to mathematicians: membranes, velocity, bed, platoon, broke, hypothesis, flip,
+Nearest to southern: modulation, landslides, type, points, commonly, find, bukhari,
+Nearest to secret: turning, asimov, democracy, shotguns, drawbacks, intermittently, mancha,
+Nearest to plague: popularize, designers, protestant, brooks, avignon, eris, brutality,
+Nearest to contribution: northside, rowan, fred, evoke, riga, halley, napster,
+Nearest to constitutional: sticky, psychologically, thought, emilia, failures, temperament, erasmus,
+Nearest to drive: unleashed, everything, commonly, partly, conservative, directions, b,
+epoch time 248.00109600000002
+Average loss at step 874/43741: 62.001326 
+Average loss at step 1748/43741: 60.487667 
+Average loss at step 2622/43741: 60.635549 
+Average loss at step 3496/43741: 59.679662 
+Average loss at step 4370/43741: 60.972957 
+Average loss at step 5244/43741: 58.312039 
+Average loss at step 6118/43741: 60.488266 
+Average loss at step 6992/43741: 56.833614 
+Average loss at step 7866/43741: 57.496653 
+Average loss at step 8740/43741: 59.119514 
+Average loss at step 9614/43741: 57.290101 
+Average loss at step 10488/43741: 56.984862 
+Average loss at step 11362/43741: 55.051451 
+Average loss at step 12236/43741: 57.726537 
+Average loss at step 13110/43741: 55.767399 
+Average loss at step 13984/43741: 56.823067 
+Average loss at step 14858/43741: 54.882366 
+Average loss at step 15732/43741: 56.705803 
+Average loss at step 16606/43741: 54.842305 
+Average loss at step 17480/43741: 54.605138 
+Average loss at step 18354/43741: 55.677367 
+Average loss at step 19228/43741: 54.120365 
+Average loss at step 20102/43741: 53.829761 
+Average loss at step 20976/43741: 53.000848 
+Average loss at step 21850/43741: 52.917068 
+Average loss at step 22724/43741: 52.836977 
+Average loss at step 23598/43741: 54.208433 
+Average loss at step 24472/43741: 52.162968 
+Average loss at step 25346/43741: 55.128609 
+Average loss at step 26220/43741: 52.638309 
+Average loss at step 27094/43741: 52.258082 
+Average loss at step 27968/43741: 53.960601 
+Average loss at step 28842/43741: 52.162358 
+Average loss at step 29716/43741: 52.156089 
+Average loss at step 30590/43741: 51.293073 
+Average loss at step 31464/43741: 51.497712 
+Average loss at step 32338/43741: 51.650328 
+Average loss at step 33212/43741: 51.093383 
+Average loss at step 34086/43741: 49.204094 
+Average loss at step 34960/43741: 51.298965 
+Average loss at step 35834/43741: 49.993928 
+Average loss at step 36708/43741: 51.181899 
+Average loss at step 37582/43741: 50.435028 
+Average loss at step 38456/43741: 50.162476 
+Average loss at step 39330/43741: 49.819759 
+Average loss at step 40204/43741: 49.970485 
+Average loss at step 41078/43741: 49.351528 
+Average loss at step 41952/43741: 48.476962 
+Average loss at step 42826/43741: 49.979217 
+Average loss at step 43700/43741: 49.689452 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, annexes, river, textual,
+Nearest to copies: usb, creator, county, supplemented, shark, prc, mouse,
+Nearest to custom: precision, testified, consolidating, intend, wynn, aa, reasonable,
+Nearest to operations: inch, uppercase, cordillera, finally, have, others, memorized,
+Nearest to delivered: introduce, died, encroachment, baba, multidimensional, irregularly, mae,
+Nearest to flash: tracer, rfc, migrate, congregation, neurons, tent, singers,
+Nearest to earl: last, bernardo, prospered, wetlands, baldrick, persona, predominantly,
+Nearest to instructions: plate, oases, anzus, summarizes, detective, lombard, ij,
+Nearest to shore: hangman, wi, walton, seeds, shogun, italian, niro,
+Nearest to mathematicians: bed, membranes, velocity, hypothesis, broke, platoon, mesopotamia,
+Nearest to southern: modulation, type, landslides, points, about, with, commonly,
+Nearest to secret: turning, asimov, democracy, mancha, shotguns, drawbacks, switch,
+Nearest to plague: popularize, designers, protestant, brooks, avignon, eris, brutality,
+Nearest to contribution: northside, rowan, fred, evoke, riga, halley, napster,
+Nearest to constitutional: sticky, psychologically, thought, failures, emilia, temperament, usd,
+Nearest to drive: unleashed, everything, commonly, b, conservative, partly, while,
+epoch time 250.81437900000003
+Average loss at step 874/43741: 49.180512 
+Average loss at step 1748/43741: 45.123387 
+Average loss at step 2622/43741: 46.022582 
+Average loss at step 3496/43741: 45.112094 
+Average loss at step 4370/43741: 45.678289 
+Average loss at step 5244/43741: 44.829668 
+Average loss at step 6118/43741: 44.412704 
+Average loss at step 6992/43741: 45.444475 
+Average loss at step 7866/43741: 44.734697 
+Average loss at step 8740/43741: 44.728759 
+Average loss at step 9614/43741: 43.762330 
+Average loss at step 10488/43741: 44.652903 
+Average loss at step 11362/43741: 45.335865 
+Average loss at step 12236/43741: 45.603460 
+Average loss at step 13110/43741: 44.129421 
+Average loss at step 13984/43741: 44.178700 
+Average loss at step 14858/43741: 43.245595 
+Average loss at step 15732/43741: 43.456941 
+Average loss at step 16606/43741: 43.548274 
+Average loss at step 17480/43741: 44.207575 
+Average loss at step 18354/43741: 42.987076 
+Average loss at step 19228/43741: 44.387593 
+Average loss at step 20102/43741: 43.646510 
+Average loss at step 20976/43741: 42.584696 
+Average loss at step 21850/43741: 42.412168 
+Average loss at step 22724/43741: 42.183398 
+Average loss at step 23598/43741: 42.052336 
+Average loss at step 24472/43741: 42.430954 
+Average loss at step 25346/43741: 42.027542 
+Average loss at step 26220/43741: 42.112248 
+Average loss at step 27094/43741: 43.009093 
+Average loss at step 27968/43741: 41.721562 
+Average loss at step 28842/43741: 42.174170 
+Average loss at step 29716/43741: 41.544814 
+Average loss at step 30590/43741: 40.598224 
+Average loss at step 31464/43741: 41.202935 
+Average loss at step 32338/43741: 40.697604 
+Average loss at step 33212/43741: 40.916318 
+Average loss at step 34086/43741: 42.043510 
+Average loss at step 34960/43741: 39.851763 
+Average loss at step 35834/43741: 41.037773 
+Average loss at step 36708/43741: 41.115981 
+Average loss at step 37582/43741: 40.993355 
+Average loss at step 38456/43741: 40.155805 
+Average loss at step 39330/43741: 40.772049 
+Average loss at step 40204/43741: 40.872219 
+Average loss at step 41078/43741: 40.902695 
+Average loss at step 41952/43741: 39.825300 
+Average loss at step 42826/43741: 39.843416 
+Average loss at step 43700/43741: 39.787177 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, river, annexes, textual,
+Nearest to copies: creator, usb, county, supplemented, shark, prc, transfer,
+Nearest to custom: precision, testified, consolidating, intend, wynn, aa, reasonable,
+Nearest to operations: inch, others, finally, uppercase, have, cordillera, them,
+Nearest to delivered: introduce, died, baba, encroachment, mae, multidimensional, irregularly,
+Nearest to flash: tracer, rfc, migrate, congregation, neurons, tent, singers,
+Nearest to earl: last, bernardo, prospered, baldrick, wetlands, persona, predominantly,
+Nearest to instructions: plate, oases, anzus, summarizes, detective, robin, lombard,
+Nearest to shore: hangman, wi, walton, seeds, seas, shogun, aphex,
+Nearest to mathematicians: bed, membranes, velocity, mesopotamia, hypothesis, broke, platoon,
+Nearest to southern: about, type, early, modulation, points, with, commonly,
+Nearest to secret: turning, asimov, democracy, mancha, shotguns, switch, equip,
+Nearest to plague: popularize, designers, protestant, brooks, eris, avignon, thunderbolt,
+Nearest to contribution: northside, rowan, fred, evoke, riga, halley, inflicted,
+Nearest to constitutional: sticky, psychologically, thought, failures, temperament, emilia, usd,
+Nearest to drive: b, commonly, everything, unleashed, well, partly, over,
+epoch time 253.08258799999987
+Average loss at step 874/43741: 40.741556 
+Average loss at step 1748/43741: 36.971925 
+Average loss at step 2622/43741: 36.379339 
+Average loss at step 3496/43741: 38.183341 
+Average loss at step 4370/43741: 36.110940 
+Average loss at step 5244/43741: 36.800874 
+Average loss at step 6118/43741: 37.896475 
+Average loss at step 6992/43741: 38.972888 
+Average loss at step 7866/43741: 37.683651 
+Average loss at step 8740/43741: 37.472728 
+Average loss at step 9614/43741: 37.047241 
+Average loss at step 10488/43741: 37.700449 
+Average loss at step 11362/43741: 37.332577 
+Average loss at step 12236/43741: 36.901491 
+Average loss at step 13110/43741: 36.181791 
+Average loss at step 13984/43741: 36.678632 
+Average loss at step 14858/43741: 35.974327 
+Average loss at step 15732/43741: 37.044134 
+Average loss at step 16606/43741: 37.853054 
+Average loss at step 17480/43741: 36.714440 
+Average loss at step 18354/43741: 35.649745 
+Average loss at step 19228/43741: 36.871833 
+Average loss at step 20102/43741: 37.082883 
+Average loss at step 20976/43741: 36.172061 
+Average loss at step 21850/43741: 37.182866 
+Average loss at step 22724/43741: 35.887185 
+Average loss at step 23598/43741: 35.813834 
+Average loss at step 24472/43741: 36.105693 
+Average loss at step 25346/43741: 36.317965 
+Average loss at step 26220/43741: 36.476869 
+Average loss at step 27094/43741: 36.881660 
+Average loss at step 27968/43741: 36.484594 
+Average loss at step 28842/43741: 35.968373 
+Average loss at step 29716/43741: 35.357821 
+Average loss at step 30590/43741: 35.449256 
+Average loss at step 31464/43741: 35.095314 
+Average loss at step 32338/43741: 35.642964 
+Average loss at step 33212/43741: 35.955167 
+Average loss at step 34086/43741: 35.122299 
+Average loss at step 34960/43741: 35.832426 
+Average loss at step 35834/43741: 35.776472 
+Average loss at step 36708/43741: 35.564146 
+Average loss at step 37582/43741: 34.848699 
+Average loss at step 38456/43741: 35.152331 
+Average loss at step 39330/43741: 34.301111 
+Average loss at step 40204/43741: 35.140700 
+Average loss at step 41078/43741: 34.110740 
+Average loss at step 41952/43741: 34.959425 
+Average loss at step 42826/43741: 34.957423 
+Average loss at step 43700/43741: 34.976621 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, river, annexes, popularity,
+Nearest to copies: creator, usb, supplemented, county, shark, prc, transfer,
+Nearest to custom: precision, testified, consolidating, intend, wynn, aa, reasonable,
+Nearest to operations: inch, others, finally, them, have, i, uppercase,
+Nearest to delivered: introduce, died, baba, mae, multidimensional, encroachment, irregularly,
+Nearest to flash: tracer, rfc, migrate, congregation, neurons, tent, gag,
+Nearest to earl: last, bernardo, prospered, baldrick, wetlands, sold, predominantly,
+Nearest to instructions: plate, oases, anzus, summarizes, detective, robin, lombard,
+Nearest to shore: hangman, wi, seeds, walton, seas, aphex, privileged,
+Nearest to mathematicians: bed, membranes, velocity, mesopotamia, hypothesis, broke, biographers,
+Nearest to southern: about, early, type, with, points, on, modulation,
+Nearest to secret: turning, asimov, mancha, democracy, oxford, shotguns, switch,
+Nearest to plague: popularize, designers, protestant, brooks, eris, avignon, maroger,
+Nearest to contribution: northside, fred, riga, evoke, rowan, halley, inflicted,
+Nearest to constitutional: sticky, psychologically, thought, failures, usd, temperament, emilia,
+Nearest to drive: b, well, partly, commonly, become, note, over,
+epoch time 253.55531600000018
+Average loss at step 874/43741: 35.846606 
+Average loss at step 1748/43741: 32.994017 
+Average loss at step 2622/43741: 33.007833 
+Average loss at step 3496/43741: 32.995361 
+Average loss at step 4370/43741: 33.589553 
+Average loss at step 5244/43741: 32.199827 
+Average loss at step 6118/43741: 34.315668 
+Average loss at step 6992/43741: 32.350178 
+Average loss at step 7866/43741: 32.125825 
+Average loss at step 8740/43741: 33.026622 
+Average loss at step 9614/43741: 32.715135 
+Average loss at step 10488/43741: 31.875201 
+Average loss at step 11362/43741: 33.704052 
+Average loss at step 12236/43741: 32.437412 
+Average loss at step 13110/43741: 31.305056 
+Average loss at step 13984/43741: 31.413630 
+Average loss at step 14858/43741: 32.814231 
+Average loss at step 15732/43741: 31.559697 
+Average loss at step 16606/43741: 31.227317 
+Average loss at step 17480/43741: 31.243880 
+Average loss at step 18354/43741: 31.456332 
+Average loss at step 19228/43741: 32.378361 
+Average loss at step 20102/43741: 32.180064 
+Average loss at step 20976/43741: 32.514770 
+Average loss at step 21850/43741: 31.927079 
+Average loss at step 22724/43741: 32.394882 
+Average loss at step 23598/43741: 32.767150 
+Average loss at step 24472/43741: 32.396460 
+Average loss at step 25346/43741: 31.867319 
+Average loss at step 26220/43741: 31.055191 
+Average loss at step 27094/43741: 32.091926 
+Average loss at step 27968/43741: 33.267270 
+Average loss at step 28842/43741: 31.849063 
+Average loss at step 29716/43741: 31.597708 
+Average loss at step 30590/43741: 31.409160 
+Average loss at step 31464/43741: 31.606130 
+Average loss at step 32338/43741: 30.405422 
+Average loss at step 33212/43741: 31.756048 
+Average loss at step 34086/43741: 32.879732 
+Average loss at step 34960/43741: 31.091635 
+Average loss at step 35834/43741: 32.168290 
+Average loss at step 36708/43741: 31.808728 
+Average loss at step 37582/43741: 31.045347 
+Average loss at step 38456/43741: 31.804963 
+Average loss at step 39330/43741: 31.046003 
+Average loss at step 40204/43741: 31.265347 
+Average loss at step 41078/43741: 31.314400 
+Average loss at step 41952/43741: 30.559883 
+Average loss at step 42826/43741: 30.707888 
+Average loss at step 43700/43741: 31.395758 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, river, annexes, popularity,
+Nearest to copies: creator, supplemented, usb, shark, county, prc, transfer,
+Nearest to custom: precision, testified, intend, consolidating, wynn, aa, reasonable,
+Nearest to operations: others, inch, them, i, finally, have, s,
+Nearest to delivered: introduce, died, baba, mae, multidimensional, irregularly, encroachment,
+Nearest to flash: tracer, migrate, rfc, tent, congregation, neurons, gag,
+Nearest to earl: last, bernardo, baldrick, prospered, wetlands, sold, hall,
+Nearest to instructions: plate, anzus, oases, summarizes, detective, robin, lombard,
+Nearest to shore: hangman, wi, seeds, walton, seas, aphex, privileged,
+Nearest to mathematicians: bed, mesopotamia, membranes, velocity, hypothesis, biographers, broke,
+Nearest to southern: early, about, type, with, on, other, area,
+Nearest to secret: turning, asimov, mancha, democracy, oxford, performed, spectrum,
+Nearest to plague: popularize, designers, brooks, protestant, eris, avignon, maroger,
+Nearest to contribution: northside, riga, fred, evoke, rowan, halley, unrecognized,
+Nearest to constitutional: sticky, psychologically, thought, failures, usd, temperament, emilia,
+Nearest to drive: b, well, note, hard, partly, become, commonly,
+epoch time 253.01945999999998
+Average loss at step 874/43741: 30.789137 
+Average loss at step 1748/43741: 29.656315 
+Average loss at step 2622/43741: 29.156365 
+Average loss at step 3496/43741: 30.029455 
+Average loss at step 4370/43741: 30.090663 
+Average loss at step 5244/43741: 29.431639 
+Average loss at step 6118/43741: 28.597820 
+Average loss at step 6992/43741: 29.222183 
+Average loss at step 7866/43741: 29.301972 
+Average loss at step 8740/43741: 29.074854 
+Average loss at step 9614/43741: 29.208282 
+Average loss at step 10488/43741: 29.455059 
+Average loss at step 11362/43741: 29.187877 
+Average loss at step 12236/43741: 29.331748 
+Average loss at step 13110/43741: 29.167617 
+Average loss at step 13984/43741: 29.142378 
+Average loss at step 14858/43741: 29.377582 
+Average loss at step 15732/43741: 29.191953 
+Average loss at step 16606/43741: 28.648753 
+Average loss at step 17480/43741: 29.552917 
+Average loss at step 18354/43741: 29.868121 
+Average loss at step 19228/43741: 28.672031 
+Average loss at step 20102/43741: 28.711905 
+Average loss at step 20976/43741: 29.185014 
+Average loss at step 21850/43741: 29.066802 
+Average loss at step 22724/43741: 29.108281 
+Average loss at step 23598/43741: 29.193485 
+Average loss at step 24472/43741: 29.394195 
+Average loss at step 25346/43741: 28.873530 
+Average loss at step 26220/43741: 28.794610 
+Average loss at step 27094/43741: 28.754573 
+Average loss at step 27968/43741: 28.700652 
+Average loss at step 28842/43741: 28.251860 
+Average loss at step 29716/43741: 28.537540 
+Average loss at step 30590/43741: 30.126703 
+Average loss at step 31464/43741: 28.488071 
+Average loss at step 32338/43741: 29.745525 
+Average loss at step 33212/43741: 28.746102 
+Average loss at step 34086/43741: 29.351126 
+Average loss at step 34960/43741: 28.585649 
+Average loss at step 35834/43741: 28.501461 
+Average loss at step 36708/43741: 28.811617 
+Average loss at step 37582/43741: 28.176698 
+Average loss at step 38456/43741: 27.963675 
+Average loss at step 39330/43741: 27.939081 
+Average loss at step 40204/43741: 29.020782 
+Average loss at step 41078/43741: 28.439923 
+Average loss at step 41952/43741: 27.977656 
+Average loss at step 42826/43741: 28.116126 
+Average loss at step 43700/43741: 29.450148 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, river, annexes, popularity,
+Nearest to copies: creator, supplemented, shark, usb, county, prc, transfer,
+Nearest to custom: precision, testified, intend, aa, consolidating, wynn, reasonable,
+Nearest to operations: others, them, i, very, inch, finally, have,
+Nearest to delivered: introduce, died, baba, mae, irregularly, multidimensional, encroachment,
+Nearest to flash: tracer, migrate, rfc, tent, gag, congregation, neurons,
+Nearest to earl: last, bernardo, baldrick, prospered, hall, wetlands, sold,
+Nearest to instructions: plate, anzus, oases, summarizes, robin, detective, competition,
+Nearest to shore: hangman, wi, seeds, walton, seas, michaels, privileged,
+Nearest to mathematicians: bed, mesopotamia, membranes, biographers, velocity, hypothesis, broke,
+Nearest to southern: early, about, type, with, on, including, area,
+Nearest to secret: turning, asimov, mancha, oxford, democracy, performed, bridge,
+Nearest to plague: popularize, brooks, designers, protestant, eris, avignon, maroger,
+Nearest to contribution: northside, riga, evoke, fred, rowan, halley, unrecognized,
+Nearest to constitutional: sticky, psychologically, thought, failures, usd, temperament, field,
+Nearest to drive: hard, well, note, b, partly, become, commonly,
+epoch time 252.26610899999991
+Average loss at step 874/43741: 28.462309 
+Average loss at step 1748/43741: 26.167724 
+Average loss at step 2622/43741: 27.601967 
+Average loss at step 3496/43741: 27.363076 
+Average loss at step 4370/43741: 26.361689 
+Average loss at step 5244/43741: 27.707624 
+Average loss at step 6118/43741: 26.740114 
+Average loss at step 6992/43741: 27.027176 
+Average loss at step 7866/43741: 26.423157 
+Average loss at step 8740/43741: 26.710529 
+Average loss at step 9614/43741: 27.420951 
+Average loss at step 10488/43741: 26.310403 
+Average loss at step 11362/43741: 26.291726 
+Average loss at step 12236/43741: 26.763458 
+Average loss at step 13110/43741: 26.966753 
+Average loss at step 13984/43741: 27.123077 
+Average loss at step 14858/43741: 26.649627 
+Average loss at step 15732/43741: 27.026370 
+Average loss at step 16606/43741: 27.311048 
+Average loss at step 17480/43741: 26.878518 
+Average loss at step 18354/43741: 26.622059 
+Average loss at step 19228/43741: 25.933354 
+Average loss at step 20102/43741: 27.592104 
+Average loss at step 20976/43741: 25.739544 
+Average loss at step 21850/43741: 27.739386 
+Average loss at step 22724/43741: 26.290651 
+Average loss at step 23598/43741: 25.739982 
+Average loss at step 24472/43741: 26.823794 
+Average loss at step 25346/43741: 27.664250 
+Average loss at step 26220/43741: 27.314512 
+Average loss at step 27094/43741: 26.526498 
+Average loss at step 27968/43741: 26.726904 
+Average loss at step 28842/43741: 26.639161 
+Average loss at step 29716/43741: 26.098793 
+Average loss at step 30590/43741: 25.702563 
+Average loss at step 31464/43741: 26.599209 
+Average loss at step 32338/43741: 27.356392 
+Average loss at step 33212/43741: 26.410995 
+Average loss at step 34086/43741: 26.713840 
+Average loss at step 34960/43741: 25.649133 
+Average loss at step 35834/43741: 26.593349 
+Average loss at step 36708/43741: 25.992041 
+Average loss at step 37582/43741: 27.043777 
+Average loss at step 38456/43741: 26.324450 
+Average loss at step 39330/43741: 26.785753 
+Average loss at step 40204/43741: 26.228397 
+Average loss at step 41078/43741: 26.865661 
+Average loss at step 41952/43741: 26.317261 
+Average loss at step 42826/43741: 27.073913 
+Average loss at step 43700/43741: 26.092516 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, river, annexes, popularity,
+Nearest to copies: creator, supplemented, shark, county, usb, prc, transfer,
+Nearest to custom: precision, testified, intend, aa, wynn, consolidating, reasonable,
+Nearest to operations: others, them, i, very, after, have, s,
+Nearest to delivered: introduce, died, baba, mae, irregularly, multidimensional, encroachment,
+Nearest to flash: tracer, migrate, rfc, tent, gag, neurons, congregation,
+Nearest to earl: last, bernardo, baldrick, prospered, hall, wetlands, sold,
+Nearest to instructions: plate, anzus, oases, summarizes, robin, competition, detective,
+Nearest to shore: hangman, wi, seeds, seas, michaels, walton, privileged,
+Nearest to mathematicians: bed, mesopotamia, biographers, membranes, hypothesis, velocity, broke,
+Nearest to southern: early, about, united, including, part, type, modern,
+Nearest to secret: turning, asimov, oxford, mancha, democracy, performed, bridge,
+Nearest to plague: popularize, brooks, protestant, designers, eris, avignon, maroger,
+Nearest to contribution: northside, riga, evoke, fred, halley, unrecognized, rowan,
+Nearest to constitutional: sticky, psychologically, thought, failures, usd, temperament, field,
+Nearest to drive: hard, note, well, b, partly, become, problems,
+epoch time 250.24329000000012
+Average loss at step 874/43741: 26.435251 
+Average loss at step 1748/43741: 24.937320 
+Average loss at step 2622/43741: 25.068573 
+Average loss at step 3496/43741: 24.680271 
+Average loss at step 4370/43741: 24.548045 
+Average loss at step 5244/43741: 24.887778 
+Average loss at step 6118/43741: 26.030680 
+Average loss at step 6992/43741: 25.386770 
+Average loss at step 7866/43741: 25.252119 
+Average loss at step 8740/43741: 25.669115 
+Average loss at step 9614/43741: 24.741139 
+Average loss at step 10488/43741: 25.600946 
+Average loss at step 11362/43741: 24.664112 
+Average loss at step 12236/43741: 24.583182 
+Average loss at step 13110/43741: 24.955826 
+Average loss at step 13984/43741: 24.979605 
+Average loss at step 14858/43741: 24.484809 
+Average loss at step 15732/43741: 24.629452 
+Average loss at step 16606/43741: 24.722241 
+Average loss at step 17480/43741: 24.465061 
+Average loss at step 18354/43741: 24.658959 
+Average loss at step 19228/43741: 25.351774 
+Average loss at step 20102/43741: 24.794108 
+Average loss at step 20976/43741: 25.255289 
+Average loss at step 21850/43741: 24.642801 
+Average loss at step 22724/43741: 24.863306 
+Average loss at step 23598/43741: 23.802382 
+Average loss at step 24472/43741: 25.311979 
+Average loss at step 25346/43741: 24.995004 
+Average loss at step 26220/43741: 25.403417 
+Average loss at step 27094/43741: 24.686407 
+Average loss at step 27968/43741: 24.597583 
+Average loss at step 28842/43741: 24.261482 
+Average loss at step 29716/43741: 24.902596 
+Average loss at step 30590/43741: 25.940500 
+Average loss at step 31464/43741: 24.821069 
+Average loss at step 32338/43741: 24.436963 
+Average loss at step 33212/43741: 23.273761 
+Average loss at step 34086/43741: 24.742376 
+Average loss at step 34960/43741: 24.747292 
+Average loss at step 35834/43741: 24.494868 
+Average loss at step 36708/43741: 25.056777 
+Average loss at step 37582/43741: 24.765963 
+Average loss at step 38456/43741: 24.477777 
+Average loss at step 39330/43741: 23.958612 
+Average loss at step 40204/43741: 25.654065 
+Average loss at step 41078/43741: 25.810826 
+Average loss at step 41952/43741: 25.605545 
+Average loss at step 42826/43741: 24.238769 
+Average loss at step 43700/43741: 25.117944 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, river, annexes, popularity,
+Nearest to copies: creator, supplemented, shark, county, usb, prc, transfer,
+Nearest to custom: precision, testified, intend, aa, wynn, consolidating, reasonable,
+Nearest to operations: others, them, i, very, after, with, s,
+Nearest to delivered: introduce, died, mae, baba, irregularly, multidimensional, comprise,
+Nearest to flash: tracer, migrate, rfc, tent, gag, neurons, congregation,
+Nearest to earl: last, bernardo, baldrick, prospered, hall, survey, inverses,
+Nearest to instructions: plate, anzus, oases, summarizes, competition, nature, robin,
+Nearest to shore: hangman, wi, seeds, seas, michaels, privileged, aphex,
+Nearest to mathematicians: bed, mesopotamia, biographers, membranes, hypothesis, velocity, broke,
+Nearest to southern: early, part, united, europe, including, about, modern,
+Nearest to secret: asimov, turning, oxford, mancha, democracy, bridge, performed,
+Nearest to plague: popularize, brooks, protestant, eris, designers, avignon, maroger,
+Nearest to contribution: northside, riga, evoke, unrecognized, express, fred, halley,
+Nearest to constitutional: sticky, psychologically, thought, failures, usd, temperament, law,
+Nearest to drive: hard, note, partly, well, b, problems, become,
+epoch time 246.4792269999998
+Average loss at step 874/43741: 23.878167 
+Average loss at step 1748/43741: 23.619782 
+Average loss at step 2622/43741: 23.732189 
+Average loss at step 3496/43741: 24.657973 
+Average loss at step 4370/43741: 23.160895 
+Average loss at step 5244/43741: 23.807669 
+Average loss at step 6118/43741: 23.397885 
+Average loss at step 6992/43741: 23.009838 
+Average loss at step 7866/43741: 23.530476 
+Average loss at step 8740/43741: 24.104978 
+Average loss at step 9614/43741: 23.982806 
+Average loss at step 10488/43741: 24.125416 
+Average loss at step 11362/43741: 22.328928 
+Average loss at step 12236/43741: 23.376419 
+Average loss at step 13110/43741: 23.160383 
+Average loss at step 13984/43741: 23.335822 
+Average loss at step 14858/43741: 23.687326 
+Average loss at step 15732/43741: 22.876640 
+Average loss at step 16606/43741: 24.133588 
+Average loss at step 17480/43741: 23.521033 
+Average loss at step 18354/43741: 22.874369 
+Average loss at step 19228/43741: 23.751913 
+Average loss at step 20102/43741: 23.199421 
+Average loss at step 20976/43741: 23.152992 
+Average loss at step 21850/43741: 22.907154 
+Average loss at step 22724/43741: 23.850934 
+Average loss at step 23598/43741: 23.923083 
+Average loss at step 24472/43741: 23.327381 
+Average loss at step 25346/43741: 23.348987 
+Average loss at step 26220/43741: 23.314498 
+Average loss at step 27094/43741: 22.976276 
+Average loss at step 27968/43741: 22.844602 
+Average loss at step 28842/43741: 23.812746 
+Average loss at step 29716/43741: 23.708860 
+Average loss at step 30590/43741: 23.254590 
+Average loss at step 31464/43741: 22.823748 
+Average loss at step 32338/43741: 22.773317 
+Average loss at step 33212/43741: 24.219624 
+Average loss at step 34086/43741: 23.187186 
+Average loss at step 34960/43741: 22.970175 
+Average loss at step 35834/43741: 23.783260 
+Average loss at step 36708/43741: 23.377001 
+Average loss at step 37582/43741: 22.654422 
+Average loss at step 38456/43741: 24.033958 
+Average loss at step 39330/43741: 23.460887 
+Average loss at step 40204/43741: 23.890768 
+Average loss at step 41078/43741: 22.553795 
+Average loss at step 41952/43741: 23.242567 
+Average loss at step 42826/43741: 23.311530 
+Average loss at step 43700/43741: 22.813810 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, river, annexes, cantor,
+Nearest to copies: creator, supplemented, shark, county, usb, prc, transfer,
+Nearest to custom: precision, testified, intend, aa, wynn, consolidating, reasonable,
+Nearest to operations: others, them, very, i, with, after, s,
+Nearest to delivered: died, introduce, mae, baba, irregularly, multidimensional, comprise,
+Nearest to flash: tracer, migrate, rfc, tent, gag, neurons, happening,
+Nearest to earl: last, baldrick, bernardo, prospered, hall, survey, inverses,
+Nearest to instructions: plate, anzus, oases, summarizes, competition, nature, citizens,
+Nearest to shore: hangman, wi, seeds, seas, michaels, privileged, aphex,
+Nearest to mathematicians: bed, mesopotamia, biographers, membranes, hypothesis, velocity, listener,
+Nearest to southern: early, europe, northern, united, part, along, including,
+Nearest to secret: oxford, asimov, turning, mancha, democracy, bridge, performed,
+Nearest to plague: popularize, brooks, eris, protestant, designers, avignon, maroger,
+Nearest to contribution: northside, riga, express, unrecognized, evoke, gated, halley,
+Nearest to constitutional: sticky, psychologically, thought, law, failures, usd, temperament,
+Nearest to drive: hard, note, partly, problems, well, b, become,
+epoch time 248.4282079999998
+Average loss at step 874/43741: 23.884022 
+Average loss at step 1748/43741: 21.856444 
+Average loss at step 2622/43741: 21.663871 
+Average loss at step 3496/43741: 23.013427 
+Average loss at step 4370/43741: 21.679056 
+Average loss at step 5244/43741: 21.903888 
+Average loss at step 6118/43741: 22.398731 
+Average loss at step 6992/43741: 21.888579 
+Average loss at step 7866/43741: 22.639958 
+Average loss at step 8740/43741: 22.341154 
+Average loss at step 9614/43741: 22.223191 
+Average loss at step 10488/43741: 21.913564 
+Average loss at step 11362/43741: 23.439907 
+Average loss at step 12236/43741: 22.187709 
+Average loss at step 13110/43741: 22.405608 
+Average loss at step 13984/43741: 22.386919 
+Average loss at step 14858/43741: 21.671536 
+Average loss at step 15732/43741: 22.221624 
+Average loss at step 16606/43741: 22.678271 
+Average loss at step 17480/43741: 21.519300 
+Average loss at step 18354/43741: 22.961511 
+Average loss at step 19228/43741: 22.090246 
+Average loss at step 20102/43741: 21.173019 
+Average loss at step 20976/43741: 22.008915 
+Average loss at step 21850/43741: 21.529436 
+Average loss at step 22724/43741: 22.630419 
+Average loss at step 23598/43741: 22.124196 
+Average loss at step 24472/43741: 22.688144 
+Average loss at step 25346/43741: 21.952624 
+Average loss at step 26220/43741: 21.384049 
+Average loss at step 27094/43741: 21.907159 
+Average loss at step 27968/43741: 22.594045 
+Average loss at step 28842/43741: 21.122886 
+Average loss at step 29716/43741: 21.774044 
+Average loss at step 30590/43741: 22.341765 
+Average loss at step 31464/43741: 22.594620 
+Average loss at step 32338/43741: 22.767971 
+Average loss at step 33212/43741: 21.846155 
+Average loss at step 34086/43741: 22.494597 
+Average loss at step 34960/43741: 22.718921 
+Average loss at step 35834/43741: 22.623223 
+Average loss at step 36708/43741: 22.211320 
+Average loss at step 37582/43741: 22.123424 
+Average loss at step 38456/43741: 22.201266 
+Average loss at step 39330/43741: 21.618297 
+Average loss at step 40204/43741: 21.963345 
+Average loss at step 41078/43741: 22.307453 
+Average loss at step 41952/43741: 22.073204 
+Average loss at step 42826/43741: 22.206181 
+Average loss at step 43700/43741: 21.841483 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, river, annexes, cantor,
+Nearest to copies: creator, supplemented, shark, county, usb, prc, sounded,
+Nearest to custom: precision, testified, intend, aa, wynn, consolidating, reasonable,
+Nearest to operations: others, them, very, with, i, after, s,
+Nearest to delivered: died, introduce, mae, baba, irregularly, comprise, multidimensional,
+Nearest to flash: tracer, migrate, tent, rfc, gag, happening, neurons,
+Nearest to earl: last, baldrick, bernardo, prospered, hall, survey, inverses,
+Nearest to instructions: plate, anzus, oases, competition, summarizes, nature, citizens,
+Nearest to shore: hangman, wi, seeds, seas, michaels, privileged, aphex,
+Nearest to mathematicians: bed, mesopotamia, biographers, membranes, hypothesis, velocity, listener,
+Nearest to southern: northern, europe, united, part, along, early, north,
+Nearest to secret: oxford, asimov, turning, mancha, democracy, bridge, agent,
+Nearest to plague: popularize, brooks, eris, protestant, designers, avignon, maroger,
+Nearest to contribution: northside, express, unrecognized, riga, evoke, gated, halley,
+Nearest to constitutional: sticky, psychologically, thought, law, failures, usd, field,
+Nearest to drive: hard, note, problems, well, partly, become, b,
+epoch time 251.71347399999968
+Average loss at step 874/43741: 21.671206 
+Average loss at step 1748/43741: 21.068079 
+Average loss at step 2622/43741: 20.981123 
+Average loss at step 3496/43741: 21.553583 
+Average loss at step 4370/43741: 20.782913 
+Average loss at step 5244/43741: 20.858933 
+Average loss at step 6118/43741: 20.594354 
+Average loss at step 6992/43741: 21.880965 
+Average loss at step 7866/43741: 21.191569 
+Average loss at step 8740/43741: 20.677659 
+Average loss at step 9614/43741: 21.331317 
+Average loss at step 10488/43741: 21.569087 
+Average loss at step 11362/43741: 20.339652 
+Average loss at step 12236/43741: 20.591722 
+Average loss at step 13110/43741: 22.440226 
+Average loss at step 13984/43741: 20.622824 
+Average loss at step 14858/43741: 20.803651 
+Average loss at step 15732/43741: 21.461869 
+Average loss at step 16606/43741: 21.156406 
+Average loss at step 17480/43741: 21.448243 
+Average loss at step 18354/43741: 22.366028 
+Average loss at step 19228/43741: 20.578753 
+Average loss at step 20102/43741: 20.849024 
+Average loss at step 20976/43741: 21.000365 
+Average loss at step 21850/43741: 21.250167 
+Average loss at step 22724/43741: 21.161906 
+Average loss at step 23598/43741: 20.611161 
+Average loss at step 24472/43741: 21.283705 
+Average loss at step 25346/43741: 20.879405 
+Average loss at step 26220/43741: 21.265293 
+Average loss at step 27094/43741: 20.896599 
+Average loss at step 27968/43741: 21.302601 
+Average loss at step 28842/43741: 21.036088 
+Average loss at step 29716/43741: 21.658408 
+Average loss at step 30590/43741: 20.445452 
+Average loss at step 31464/43741: 20.524030 
+Average loss at step 32338/43741: 21.191489 
+Average loss at step 33212/43741: 21.060903 
+Average loss at step 34086/43741: 21.540685 
+Average loss at step 34960/43741: 21.174264 
+Average loss at step 35834/43741: 21.458484 
+Average loss at step 36708/43741: 20.487993 
+Average loss at step 37582/43741: 21.184774 
+Average loss at step 38456/43741: 21.372221 
+Average loss at step 39330/43741: 21.069196 
+Average loss at step 40204/43741: 21.143759 
+Average loss at step 41078/43741: 21.252441 
+Average loss at step 41952/43741: 21.563378 
+Average loss at step 42826/43741: 21.137248 
+Average loss at step 43700/43741: 20.937620 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, river, annexes, cantor,
+Nearest to copies: creator, supplemented, shark, county, usb, sounded, prc,
+Nearest to custom: precision, testified, aa, intend, wynn, consolidating, reasonable,
+Nearest to operations: others, them, very, with, after, s, its,
+Nearest to delivered: died, introduce, mae, baba, irregularly, speech, comprise,
+Nearest to flash: tracer, migrate, tent, rfc, gag, threat, happening,
+Nearest to earl: baldrick, bernardo, last, hall, prospered, survey, inverses,
+Nearest to instructions: plate, anzus, competition, oases, summarizes, nature, citizens,
+Nearest to shore: hangman, wi, seeds, seas, michaels, privileged, wall,
+Nearest to mathematicians: bed, mesopotamia, biographers, membranes, hypothesis, limbs, velocity,
+Nearest to southern: northern, europe, along, united, part, north, early,
+Nearest to secret: oxford, asimov, turning, mancha, democracy, agent, bridge,
+Nearest to plague: popularize, brooks, eris, protestant, maroger, avignon, designers,
+Nearest to contribution: northside, express, unrecognized, riga, gated, evoke, halley,
+Nearest to constitutional: sticky, psychologically, thought, law, failures, field, usd,
+Nearest to drive: hard, note, problems, partly, well, begins, become,
+epoch time 253.963753
+Average loss at step 874/43741: 21.002795 
+Average loss at step 1748/43741: 20.550360 
+Average loss at step 2622/43741: 20.737975 
+Average loss at step 3496/43741: 19.664934 
+Average loss at step 4370/43741: 19.990338 
+Average loss at step 5244/43741: 20.568153 
+Average loss at step 6118/43741: 19.959793 
+Average loss at step 6992/43741: 20.033541 
+Average loss at step 7866/43741: 20.413953 
+Average loss at step 8740/43741: 20.626379 
+Average loss at step 9614/43741: 19.631605 
+Average loss at step 10488/43741: 19.922179 
+Average loss at step 11362/43741: 20.982750 
+Average loss at step 12236/43741: 19.908230 
+Average loss at step 13110/43741: 20.456669 
+Average loss at step 13984/43741: 20.500932 
+Average loss at step 14858/43741: 20.070730 
+Average loss at step 15732/43741: 20.344261 
+Average loss at step 16606/43741: 20.005547 
+Average loss at step 17480/43741: 20.436029 
+Average loss at step 18354/43741: 20.469525 
+Average loss at step 19228/43741: 19.621240 
+Average loss at step 20102/43741: 19.561637 
+Average loss at step 20976/43741: 20.221959 
+Average loss at step 21850/43741: 19.570567 
+Average loss at step 22724/43741: 21.425211 
+Average loss at step 23598/43741: 20.038584 
+Average loss at step 24472/43741: 20.272356 
+Average loss at step 25346/43741: 19.887855 
+Average loss at step 26220/43741: 19.608685 
+Average loss at step 27094/43741: 19.964966 
+Average loss at step 27968/43741: 20.757753 
+Average loss at step 28842/43741: 20.834224 
+Average loss at step 29716/43741: 20.394343 
+Average loss at step 30590/43741: 20.022347 
+Average loss at step 31464/43741: 20.120283 
+Average loss at step 32338/43741: 20.274340 
+Average loss at step 33212/43741: 20.791506 
+Average loss at step 34086/43741: 19.790228 
+Average loss at step 34960/43741: 21.079023 
+Average loss at step 35834/43741: 19.818248 
+Average loss at step 36708/43741: 20.221788 
+Average loss at step 37582/43741: 19.838574 
+Average loss at step 38456/43741: 19.973178 
+Average loss at step 39330/43741: 20.521535 
+Average loss at step 40204/43741: 19.845960 
+Average loss at step 41078/43741: 19.532980 
+Average loss at step 41952/43741: 20.531985 
+Average loss at step 42826/43741: 20.537315 
+Average loss at step 43700/43741: 19.881854 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, river, annexes, cantor,
+Nearest to copies: creator, supplemented, shark, county, sounded, electricity, usb,
+Nearest to custom: precision, testified, intend, aa, wynn, reasonable, consolidating,
+Nearest to operations: others, them, very, with, after, its, example,
+Nearest to delivered: died, introduce, mae, baba, irregularly, speech, comprise,
+Nearest to flash: tracer, migrate, tent, gag, rfc, threat, happening,
+Nearest to earl: baldrick, bernardo, last, hall, prospered, survey, inverses,
+Nearest to instructions: plate, anzus, competition, nature, summarizes, oases, describes,
+Nearest to shore: hangman, wi, seeds, seas, michaels, privileged, wall,
+Nearest to mathematicians: bed, mesopotamia, biographers, membranes, limbs, tabernacle, pentagonal,
+Nearest to southern: northern, europe, north, along, united, part, eastern,
+Nearest to secret: oxford, asimov, turning, mancha, democracy, agent, bridge,
+Nearest to plague: popularize, brooks, eris, protestant, maroger, torpedo, avignon,
+Nearest to contribution: express, northside, unrecognized, gated, riga, evoke, halley,
+Nearest to constitutional: sticky, psychologically, thought, law, field, failures, usd,
+Nearest to drive: hard, note, problems, partly, begins, well, upon,
+epoch time 254.75630200000023
+Average loss at step 874/43741: 20.164748 
+Average loss at step 1748/43741: 19.368618 
+Average loss at step 2622/43741: 19.411468 
+Average loss at step 3496/43741: 19.052428 
+Average loss at step 4370/43741: 19.702668 
+Average loss at step 5244/43741: 19.652566 
+Average loss at step 6118/43741: 19.566532 
+Average loss at step 6992/43741: 19.619693 
+Average loss at step 7866/43741: 19.429976 
+Average loss at step 8740/43741: 19.395023 
+Average loss at step 9614/43741: 19.055343 
+Average loss at step 10488/43741: 19.175344 
+Average loss at step 11362/43741: 20.196333 
+Average loss at step 12236/43741: 19.670019 
+Average loss at step 13110/43741: 19.276791 
+Average loss at step 13984/43741: 19.708048 
+Average loss at step 14858/43741: 20.054560 
+Average loss at step 15732/43741: 19.152065 
+Average loss at step 16606/43741: 18.577631 
+Average loss at step 17480/43741: 19.625711 
+Average loss at step 18354/43741: 19.362238 
+Average loss at step 19228/43741: 18.859700 
+Average loss at step 20102/43741: 19.082726 
+Average loss at step 20976/43741: 19.578305 
+Average loss at step 21850/43741: 19.786369 
+Average loss at step 22724/43741: 19.422483 
+Average loss at step 23598/43741: 18.865896 
+Average loss at step 24472/43741: 19.296186 
+Average loss at step 25346/43741: 19.571077 
+Average loss at step 26220/43741: 19.746105 
+Average loss at step 27094/43741: 19.253839 
+Average loss at step 27968/43741: 20.176753 
+Average loss at step 28842/43741: 19.141675 
+Average loss at step 29716/43741: 19.262702 
+Average loss at step 30590/43741: 19.321576 
+Average loss at step 31464/43741: 18.423897 
+Average loss at step 32338/43741: 19.392456 
+Average loss at step 33212/43741: 19.146247 
+Average loss at step 34086/43741: 18.642625 
+Average loss at step 34960/43741: 19.187635 
+Average loss at step 35834/43741: 19.551535 
+Average loss at step 36708/43741: 19.047339 
+Average loss at step 37582/43741: 19.077339 
+Average loss at step 38456/43741: 19.696129 
+Average loss at step 39330/43741: 19.963076 
+Average loss at step 40204/43741: 19.406179 
+Average loss at step 41078/43741: 19.966291 
+Average loss at step 41952/43741: 20.150209 
+Average loss at step 42826/43741: 19.795928 
+Average loss at step 43700/43741: 19.568953 
+Nearest to stanley: nokia, biodiversity, congregationalist, exposes, river, annexes, cantor,
+Nearest to copies: creator, supplemented, shark, sounded, electricity, county, usb,
+Nearest to custom: precision, testified, aa, intend, wynn, reasonable, governments,
+Nearest to operations: others, them, with, very, for, its, example,
+Nearest to delivered: died, introduce, mae, speech, baba, irregularly, comprise,
+Nearest to flash: tracer, migrate, tent, gag, rfc, threat, prohibitions,
+Nearest to earl: baldrick, bernardo, hall, last, prospered, survey, inverses,
+Nearest to instructions: plate, anzus, competition, describes, nature, summarizes, citizens,
+Nearest to shore: hangman, wi, seeds, seas, michaels, privileged, wall,
+Nearest to mathematicians: bed, mesopotamia, biographers, limbs, membranes, pentagonal, tabernacle,
+Nearest to southern: northern, europe, north, along, united, part, eastern,
+Nearest to secret: oxford, asimov, mancha, turning, democracy, agent, bridge,
+Nearest to plague: popularize, brooks, eris, protestant, maroger, torpedo, avignon,
+Nearest to contribution: express, northside, unrecognized, gated, evoke, riga, inflicted,
+Nearest to constitutional: sticky, psychologically, law, thought, field, temperament, usd,
+Nearest to drive: hard, note, problems, disk, begins, partly, well,
+epoch time 253.96666199999981
+Average loss at step 874/43741: 19.974326 
+Average loss at step 1748/43741: 19.317386 
+Average loss at step 2622/43741: 17.811616 
+Average loss at step 3496/43741: 19.111009 
+Average loss at step 4370/43741: 18.817961 
+Average loss at step 5244/43741: 19.379618 
+Average loss at step 6118/43741: 18.750785 
+Average loss at step 6992/43741: 19.008504 
+Average loss at step 7866/43741: 18.372510 
+Average loss at step 8740/43741: 18.783981 
+Average loss at step 9614/43741: 18.255781 
+Average loss at step 10488/43741: 18.816682 
+Average loss at step 11362/43741: 19.095000 
+Average loss at step 12236/43741: 18.400864 
+Average loss at step 13110/43741: 17.689211 
+Average loss at step 13984/43741: 19.015289 
+Average loss at step 14858/43741: 18.382119 
+Average loss at step 15732/43741: 18.715684 
+Average loss at step 16606/43741: 18.740912 
+Average loss at step 17480/43741: 19.267548 
+Average loss at step 18354/43741: 17.991766 
+Average loss at step 19228/43741: 18.997220 
+Average loss at step 20102/43741: 18.626081 
+Average loss at step 20976/43741: 18.511570 
+Average loss at step 21850/43741: 18.841357 
+Average loss at step 22724/43741: 19.187687 
+Average loss at step 23598/43741: 18.820755 
+Average loss at step 24472/43741: 18.676182 
+Average loss at step 25346/43741: 18.518840 
+Average loss at step 26220/43741: 18.871484 
+Average loss at step 27094/43741: 18.808813 
+Average loss at step 27968/43741: 18.196346 
+Average loss at step 28842/43741: 19.277803 
+Average loss at step 29716/43741: 18.669064 
+Average loss at step 30590/43741: 18.533753 
+Average loss at step 31464/43741: 18.597614 
+Average loss at step 32338/43741: 18.713105 
+Average loss at step 33212/43741: 18.775586 
+Average loss at step 34086/43741: 18.672651 
+Average loss at step 34960/43741: 18.223266 
+Average loss at step 35834/43741: 18.959240 
+Average loss at step 36708/43741: 18.495048 
+Average loss at step 37582/43741: 18.591784 
+Average loss at step 38456/43741: 18.076990 
+Average loss at step 39330/43741: 18.912042 
+Average loss at step 40204/43741: 18.912997 
+Average loss at step 41078/43741: 19.353510 
+Average loss at step 41952/43741: 18.710053 
+Average loss at step 42826/43741: 18.823600 
+Average loss at step 43700/43741: 18.808918 
+Nearest to stanley: nokia, biodiversity, congregationalist, river, exposes, cantor, annexes,
+Nearest to copies: creator, supplemented, shark, sounded, electricity, county, panel,
+Nearest to custom: precision, testified, aa, intend, wynn, governments, reasonable,
+Nearest to operations: others, with, them, very, for, its, example,
+Nearest to delivered: died, introduce, speech, mae, baba, irregularly, comprise,
+Nearest to flash: tracer, migrate, tent, gag, rfc, threat, sid,
+Nearest to earl: baldrick, bernardo, hall, last, prospered, survey, rd,
+Nearest to instructions: plate, anzus, competition, describes, summarizes, nature, pole,
+Nearest to shore: hangman, wi, seas, seeds, michaels, privileged, wall,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, membranes,
+Nearest to southern: northern, europe, north, along, united, eastern, western,
+Nearest to secret: oxford, asimov, mancha, turning, agent, democracy, bridge,
+Nearest to plague: popularize, brooks, eris, maroger, protestant, torpedo, avignon,
+Nearest to contribution: express, northside, unrecognized, gated, evoke, riga, inflicted,
+Nearest to constitutional: sticky, law, psychologically, thought, field, temperament, usd,
+Nearest to drive: hard, note, disk, begins, problems, partly, upon,
+epoch time 253.09891500000003
+Average loss at step 874/43741: 18.831844 
+Average loss at step 1748/43741: 17.548386 
+Average loss at step 2622/43741: 18.041960 
+Average loss at step 3496/43741: 17.994472 
+Average loss at step 4370/43741: 18.276068 
+Average loss at step 5244/43741: 18.217361 
+Average loss at step 6118/43741: 17.522353 
+Average loss at step 6992/43741: 18.071974 
+Average loss at step 7866/43741: 19.311524 
+Average loss at step 8740/43741: 17.624595 
+Average loss at step 9614/43741: 18.069639 
+Average loss at step 10488/43741: 18.730466 
+Average loss at step 11362/43741: 18.578690 
+Average loss at step 12236/43741: 18.161135 
+Average loss at step 13110/43741: 18.618868 
+Average loss at step 13984/43741: 17.513032 
+Average loss at step 14858/43741: 17.847458 
+Average loss at step 15732/43741: 17.692059 
+Average loss at step 16606/43741: 18.044347 
+Average loss at step 17480/43741: 18.442893 
+Average loss at step 18354/43741: 17.913131 
+Average loss at step 19228/43741: 18.274016 
+Average loss at step 20102/43741: 17.463406 
+Average loss at step 20976/43741: 18.359677 
+Average loss at step 21850/43741: 18.323378 
+Average loss at step 22724/43741: 17.979624 
+Average loss at step 23598/43741: 17.770347 
+Average loss at step 24472/43741: 19.079663 
+Average loss at step 25346/43741: 17.752217 
+Average loss at step 26220/43741: 18.367459 
+Average loss at step 27094/43741: 17.926926 
+Average loss at step 27968/43741: 18.386003 
+Average loss at step 28842/43741: 18.283056 
+Average loss at step 29716/43741: 17.674760 
+Average loss at step 30590/43741: 17.589114 
+Average loss at step 31464/43741: 18.462485 
+Average loss at step 32338/43741: 17.737333 
+Average loss at step 33212/43741: 17.664377 
+Average loss at step 34086/43741: 18.078312 
+Average loss at step 34960/43741: 18.759205 
+Average loss at step 35834/43741: 17.856257 
+Average loss at step 36708/43741: 17.734658 
+Average loss at step 37582/43741: 17.977061 
+Average loss at step 38456/43741: 18.722004 
+Average loss at step 39330/43741: 18.942925 
+Average loss at step 40204/43741: 17.571328 
+Average loss at step 41078/43741: 17.633324 
+Average loss at step 41952/43741: 18.160788 
+Average loss at step 42826/43741: 17.559801 
+Average loss at step 43700/43741: 18.459321 
+Nearest to stanley: nokia, biodiversity, congregationalist, river, exposes, cantor, annexes,
+Nearest to copies: creator, supplemented, shark, sounded, electricity, panel, customers,
+Nearest to custom: precision, testified, aa, intend, wynn, governments, reasonable,
+Nearest to operations: with, others, them, very, for, its, example,
+Nearest to delivered: died, introduce, speech, mae, irregularly, baba, comprise,
+Nearest to flash: tracer, migrate, tent, gag, rfc, threat, sid,
+Nearest to earl: baldrick, bernardo, hall, prospered, rd, last, survey,
+Nearest to instructions: plate, anzus, describes, competition, nature, summarizes, pole,
+Nearest to shore: hangman, wi, seas, seeds, michaels, privileged, wall,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, membranes,
+Nearest to southern: northern, europe, north, eastern, along, western, united,
+Nearest to secret: oxford, asimov, mancha, turning, agent, democracy, bridge,
+Nearest to plague: popularize, eris, brooks, maroger, torpedo, protestant, avignon,
+Nearest to contribution: express, northside, unrecognized, gated, evoke, riga, inflicted,
+Nearest to constitutional: sticky, law, psychologically, thought, field, temperament, usd,
+Nearest to drive: hard, disk, note, begins, problems, partly, started,
+epoch time 252.3189580000003
+Average loss at step 874/43741: 18.800804 
+Average loss at step 1748/43741: 18.008768 
+Average loss at step 2622/43741: 17.538948 
+Average loss at step 3496/43741: 17.830071 
+Average loss at step 4370/43741: 17.526319 
+Average loss at step 5244/43741: 17.731464 
+Average loss at step 6118/43741: 17.468277 
+Average loss at step 6992/43741: 17.925695 
+Average loss at step 7866/43741: 17.275954 
+Average loss at step 8740/43741: 17.557654 
+Average loss at step 9614/43741: 17.414619 
+Average loss at step 10488/43741: 17.264689 
+Average loss at step 11362/43741: 17.832538 
+Average loss at step 12236/43741: 17.432528 
+Average loss at step 13110/43741: 17.949052 
+Average loss at step 13984/43741: 17.689011 
+Average loss at step 14858/43741: 16.908769 
+Average loss at step 15732/43741: 17.603200 
+Average loss at step 16606/43741: 17.699847 
+Average loss at step 17480/43741: 17.509601 
+Average loss at step 18354/43741: 17.175649 
+Average loss at step 19228/43741: 16.996648 
+Average loss at step 20102/43741: 17.553849 
+Average loss at step 20976/43741: 17.280152 
+Average loss at step 21850/43741: 17.819411 
+Average loss at step 22724/43741: 17.181198 
+Average loss at step 23598/43741: 17.116956 
+Average loss at step 24472/43741: 17.319951 
+Average loss at step 25346/43741: 17.368075 
+Average loss at step 26220/43741: 17.756788 
+Average loss at step 27094/43741: 17.696039 
+Average loss at step 27968/43741: 17.604581 
+Average loss at step 28842/43741: 17.261032 
+Average loss at step 29716/43741: 17.304205 
+Average loss at step 30590/43741: 18.090356 
+Average loss at step 31464/43741: 18.103456 
+Average loss at step 32338/43741: 17.899593 
+Average loss at step 33212/43741: 17.473381 
+Average loss at step 34086/43741: 17.374857 
+Average loss at step 34960/43741: 17.930620 
+Average loss at step 35834/43741: 18.028754 
+Average loss at step 36708/43741: 17.324095 
+Average loss at step 37582/43741: 16.758098 
+Average loss at step 38456/43741: 18.129146 
+Average loss at step 39330/43741: 16.772258 
+Average loss at step 40204/43741: 17.415887 
+Average loss at step 41078/43741: 17.777686 
+Average loss at step 41952/43741: 18.048371 
+Average loss at step 42826/43741: 17.143466 
+Average loss at step 43700/43741: 17.486194 
+Nearest to stanley: nokia, biodiversity, congregationalist, cantor, river, exposes, annexes,
+Nearest to copies: creator, supplemented, shark, sounded, electricity, panel, customers,
+Nearest to custom: precision, testified, aa, intend, wynn, governments, reasonable,
+Nearest to operations: with, others, for, them, very, its, example,
+Nearest to delivered: died, introduce, speech, mae, irregularly, baba, comprise,
+Nearest to flash: tracer, migrate, tent, gag, rfc, sid, threat,
+Nearest to earl: baldrick, hall, bernardo, rd, prospered, survey, last,
+Nearest to instructions: plate, anzus, describes, competition, nature, summarizes, pole,
+Nearest to shore: hangman, wi, seas, seeds, privileged, michaels, wall,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, membranes,
+Nearest to southern: northern, europe, north, eastern, western, along, central,
+Nearest to secret: oxford, mancha, asimov, agent, turning, democracy, kept,
+Nearest to plague: popularize, eris, brooks, maroger, torpedo, protestant, cyril,
+Nearest to contribution: express, unrecognized, northside, gated, evoke, constants, inflicted,
+Nearest to constitutional: law, sticky, psychologically, thought, field, temperament, bill,
+Nearest to drive: hard, disk, note, begins, problems, started, partly,
+epoch time 251.54480799999965
+Average loss at step 874/43741: 18.300661 
+Average loss at step 1748/43741: 17.112886 
+Average loss at step 2622/43741: 17.322983 
+Average loss at step 3496/43741: 16.492021 
+Average loss at step 4370/43741: 17.126979 
+Average loss at step 5244/43741: 17.190819 
+Average loss at step 6118/43741: 16.870197 
+Average loss at step 6992/43741: 17.163140 
+Average loss at step 7866/43741: 17.320909 
+Average loss at step 8740/43741: 17.097880 
+Average loss at step 9614/43741: 16.635554 
+Average loss at step 10488/43741: 16.635527 
+Average loss at step 11362/43741: 17.234271 
+Average loss at step 12236/43741: 17.508418 
+Average loss at step 13110/43741: 17.414218 
+Average loss at step 13984/43741: 16.639157 
+Average loss at step 14858/43741: 17.448354 
+Average loss at step 15732/43741: 17.158634 
+Average loss at step 16606/43741: 16.746124 
+Average loss at step 17480/43741: 17.277622 
+Average loss at step 18354/43741: 16.587913 
+Average loss at step 19228/43741: 17.283180 
+Average loss at step 20102/43741: 16.548297 
+Average loss at step 20976/43741: 17.210205 
+Average loss at step 21850/43741: 17.833399 
+Average loss at step 22724/43741: 17.421151 
+Average loss at step 23598/43741: 16.749975 
+Average loss at step 24472/43741: 17.377128 
+Average loss at step 25346/43741: 17.349469 
+Average loss at step 26220/43741: 16.660368 
+Average loss at step 27094/43741: 16.197784 
+Average loss at step 27968/43741: 16.783053 
+Average loss at step 28842/43741: 16.651109 
+Average loss at step 29716/43741: 16.618496 
+Average loss at step 30590/43741: 17.321049 
+Average loss at step 31464/43741: 17.095454 
+Average loss at step 32338/43741: 17.019169 
+Average loss at step 33212/43741: 17.228558 
+Average loss at step 34086/43741: 16.977536 
+Average loss at step 34960/43741: 16.490531 
+Average loss at step 35834/43741: 16.518853 
+Average loss at step 36708/43741: 17.180721 
+Average loss at step 37582/43741: 17.462560 
+Average loss at step 38456/43741: 16.982970 
+Average loss at step 39330/43741: 17.272625 
+Average loss at step 40204/43741: 17.325179 
+Average loss at step 41078/43741: 16.705376 
+Average loss at step 41952/43741: 17.513048 
+Average loss at step 42826/43741: 16.951042 
+Average loss at step 43700/43741: 16.859863 
+Nearest to stanley: nokia, biodiversity, congregationalist, cantor, river, annexes, exposes,
+Nearest to copies: creator, supplemented, sounded, electricity, shark, customers, panel,
+Nearest to custom: precision, testified, aa, intend, wynn, governments, reasonable,
+Nearest to operations: with, for, others, very, them, its, example,
+Nearest to delivered: died, introduce, speech, mae, irregularly, baba, comprise,
+Nearest to flash: tracer, migrate, tent, gag, rfc, sid, threat,
+Nearest to earl: hall, baldrick, bernardo, rd, survey, prospered, st,
+Nearest to instructions: plate, anzus, describes, competition, nature, pole, summarizes,
+Nearest to shore: hangman, wi, seas, seeds, privileged, michaels, wall,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, membranes,
+Nearest to southern: northern, europe, north, western, eastern, central, along,
+Nearest to secret: oxford, agent, mancha, asimov, turning, democracy, kept,
+Nearest to plague: eris, popularize, brooks, maroger, torpedo, cyril, protestant,
+Nearest to contribution: express, unrecognized, northside, gated, constants, evoke, inflicted,
+Nearest to constitutional: law, sticky, psychologically, thought, field, bill, temperament,
+Nearest to drive: hard, disk, note, begins, problems, started, upon,
+epoch time 251.09923100000015
+Average loss at step 874/43741: 18.361472 
+Average loss at step 1748/43741: 16.236734 
+Average loss at step 2622/43741: 16.755625 
+Average loss at step 3496/43741: 16.625708 
+Average loss at step 4370/43741: 15.899236 
+Average loss at step 5244/43741: 16.706157 
+Average loss at step 6118/43741: 16.301846 
+Average loss at step 6992/43741: 15.953364 
+Average loss at step 7866/43741: 17.070900 
+Average loss at step 8740/43741: 16.617990 
+Average loss at step 9614/43741: 17.377301 
+Average loss at step 10488/43741: 16.574310 
+Average loss at step 11362/43741: 16.122582 
+Average loss at step 12236/43741: 16.224763 
+Average loss at step 13110/43741: 16.277700 
+Average loss at step 13984/43741: 16.531020 
+Average loss at step 14858/43741: 16.534378 
+Average loss at step 15732/43741: 16.668902 
+Average loss at step 16606/43741: 16.081558 
+Average loss at step 17480/43741: 16.301357 
+Average loss at step 18354/43741: 16.728185 
+Average loss at step 19228/43741: 16.723540 
+Average loss at step 20102/43741: 17.581293 
+Average loss at step 20976/43741: 16.575815 
+Average loss at step 21850/43741: 16.808729 
+Average loss at step 22724/43741: 15.824013 
+Average loss at step 23598/43741: 16.747494 
+Average loss at step 24472/43741: 16.143855 
+Average loss at step 25346/43741: 16.426332 
+Average loss at step 26220/43741: 16.579532 
+Average loss at step 27094/43741: 16.831841 
+Average loss at step 27968/43741: 16.457735 
+Average loss at step 28842/43741: 16.856673 
+Average loss at step 29716/43741: 17.316853 
+Average loss at step 30590/43741: 16.722826 
+Average loss at step 31464/43741: 15.967262 
+Average loss at step 32338/43741: 16.847499 
+Average loss at step 33212/43741: 16.988142 
+Average loss at step 34086/43741: 16.682617 
+Average loss at step 34960/43741: 17.201875 
+Average loss at step 35834/43741: 16.378467 
+Average loss at step 36708/43741: 16.137855 
+Average loss at step 37582/43741: 16.417199 
+Average loss at step 38456/43741: 16.277906 
+Average loss at step 39330/43741: 16.620959 
+Average loss at step 40204/43741: 16.751687 
+Average loss at step 41078/43741: 16.796376 
+Average loss at step 41952/43741: 16.695990 
+Average loss at step 42826/43741: 16.367584 
+Average loss at step 43700/43741: 16.980545 
+Nearest to stanley: nokia, biodiversity, cantor, congregationalist, annexes, archduke, river,
+Nearest to copies: creator, supplemented, electricity, sounded, customers, shark, panel,
+Nearest to custom: precision, aa, testified, intend, governments, wynn, reasonable,
+Nearest to operations: with, for, others, very, its, them, example,
+Nearest to delivered: died, speech, introduce, mae, irregularly, baba, certainly,
+Nearest to flash: tracer, migrate, tent, gag, rfc, sid, threat,
+Nearest to earl: hall, baldrick, bernardo, rd, st, survey, prospered,
+Nearest to instructions: plate, anzus, describes, competition, pole, nature, summarizes,
+Nearest to shore: hangman, wi, seas, seeds, wall, privileged, michaels,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, membranes,
+Nearest to southern: northern, north, europe, western, eastern, south, central,
+Nearest to secret: oxford, agent, mancha, asimov, turning, kept, service,
+Nearest to plague: eris, brooks, popularize, maroger, torpedo, cyril, clotting,
+Nearest to contribution: express, unrecognized, northside, gated, constants, evoke, inflicted,
+Nearest to constitutional: law, sticky, psychologically, thought, field, study, bill,
+Nearest to drive: hard, disk, note, begins, problems, started, upon,
+epoch time 250.6772719999999
+Average loss at step 874/43741: 16.825631 
+Average loss at step 1748/43741: 16.283136 
+Average loss at step 2622/43741: 16.449310 
+Average loss at step 3496/43741: 15.698387 
+Average loss at step 4370/43741: 16.396457 
+Average loss at step 5244/43741: 16.555108 
+Average loss at step 6118/43741: 16.112212 
+Average loss at step 6992/43741: 16.505797 
+Average loss at step 7866/43741: 15.811673 
+Average loss at step 8740/43741: 16.059971 
+Average loss at step 9614/43741: 16.110539 
+Average loss at step 10488/43741: 16.199330 
+Average loss at step 11362/43741: 16.316298 
+Average loss at step 12236/43741: 15.787928 
+Average loss at step 13110/43741: 16.158662 
+Average loss at step 13984/43741: 16.167312 
+Average loss at step 14858/43741: 15.862642 
+Average loss at step 15732/43741: 15.821230 
+Average loss at step 16606/43741: 15.727455 
+Average loss at step 17480/43741: 16.161025 
+Average loss at step 18354/43741: 16.212388 
+Average loss at step 19228/43741: 16.310105 
+Average loss at step 20102/43741: 16.323780 
+Average loss at step 20976/43741: 15.744806 
+Average loss at step 21850/43741: 16.657545 
+Average loss at step 22724/43741: 16.561668 
+Average loss at step 23598/43741: 15.740858 
+Average loss at step 24472/43741: 16.576190 
+Average loss at step 25346/43741: 15.775681 
+Average loss at step 26220/43741: 16.221980 
+Average loss at step 27094/43741: 16.003215 
+Average loss at step 27968/43741: 16.219760 
+Average loss at step 28842/43741: 16.506533 
+Average loss at step 29716/43741: 16.664079 
+Average loss at step 30590/43741: 15.697226 
+Average loss at step 31464/43741: 16.144649 
+Average loss at step 32338/43741: 16.236225 
+Average loss at step 33212/43741: 16.367148 
+Average loss at step 34086/43741: 16.437033 
+Average loss at step 34960/43741: 16.725760 
+Average loss at step 35834/43741: 16.868027 
+Average loss at step 36708/43741: 16.077257 
+Average loss at step 37582/43741: 16.248030 
+Average loss at step 38456/43741: 15.915143 
+Average loss at step 39330/43741: 16.441649 
+Average loss at step 40204/43741: 15.795174 
+Average loss at step 41078/43741: 16.101484 
+Average loss at step 41952/43741: 16.055642 
+Average loss at step 42826/43741: 16.097364 
+Average loss at step 43700/43741: 16.077273 
+Nearest to stanley: nokia, biodiversity, cantor, congregationalist, archduke, annexes, river,
+Nearest to copies: creator, supplemented, electricity, customers, sounded, shark, elevations,
+Nearest to custom: precision, testified, aa, intend, governments, wynn, reasonable,
+Nearest to operations: with, for, its, others, very, example, them,
+Nearest to delivered: died, speech, introduce, mae, irregularly, certainly, baba,
+Nearest to flash: tracer, migrate, tent, gag, sid, rfc, chiang,
+Nearest to earl: hall, rd, baldrick, bernardo, st, survey, prospered,
+Nearest to instructions: plate, anzus, describes, competition, pole, nature, summarizes,
+Nearest to shore: hangman, wi, seas, seeds, wall, privileged, michaels,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, membranes,
+Nearest to southern: northern, north, europe, western, eastern, south, central,
+Nearest to secret: oxford, agent, mancha, service, kept, asimov, police,
+Nearest to plague: eris, maroger, brooks, popularize, torpedo, cyril, clotting,
+Nearest to contribution: express, unrecognized, northside, gated, constants, napster, inflicted,
+Nearest to constitutional: law, sticky, psychologically, thought, study, field, bill,
+Nearest to drive: hard, disk, begins, note, problems, floppy, started,
+epoch time 249.699114
+Average loss at step 874/43741: 16.454008 
+Average loss at step 1748/43741: 15.375952 
+Average loss at step 2622/43741: 16.372185 
+Average loss at step 3496/43741: 15.789068 
+Average loss at step 4370/43741: 16.190778 
+Average loss at step 5244/43741: 15.487730 
+Average loss at step 6118/43741: 15.531226 
+Average loss at step 6992/43741: 15.951970 
+Average loss at step 7866/43741: 16.031312 
+Average loss at step 8740/43741: 15.993468 
+Average loss at step 9614/43741: 15.717084 
+Average loss at step 10488/43741: 15.776453 
+Average loss at step 11362/43741: 15.150810 
+Average loss at step 12236/43741: 16.152102 
+Average loss at step 13110/43741: 15.652032 
+Average loss at step 13984/43741: 15.673917 
+Average loss at step 14858/43741: 16.129658 
+Average loss at step 15732/43741: 15.741541 
+Average loss at step 16606/43741: 15.250021 
+Average loss at step 17480/43741: 16.009480 
+Average loss at step 18354/43741: 16.226985 
+Average loss at step 19228/43741: 15.871097 
+Average loss at step 20102/43741: 15.726157 
+Average loss at step 20976/43741: 16.442220 
+Average loss at step 21850/43741: 15.467575 
+Average loss at step 22724/43741: 15.173161 
+Average loss at step 23598/43741: 15.987560 
+Average loss at step 24472/43741: 15.754479 
+Average loss at step 25346/43741: 15.636861 
+Average loss at step 26220/43741: 16.207461 
+Average loss at step 27094/43741: 15.655914 
+Average loss at step 27968/43741: 15.473844 
+Average loss at step 28842/43741: 15.624084 
+Average loss at step 29716/43741: 15.700343 
+Average loss at step 30590/43741: 15.867189 
+Average loss at step 31464/43741: 15.924627 
+Average loss at step 32338/43741: 16.118186 
+Average loss at step 33212/43741: 15.897298 
+Average loss at step 34086/43741: 15.686182 
+Average loss at step 34960/43741: 16.166208 
+Average loss at step 35834/43741: 15.841229 
+Average loss at step 36708/43741: 15.804352 
+Average loss at step 37582/43741: 14.934196 
+Average loss at step 38456/43741: 15.843259 
+Average loss at step 39330/43741: 15.756208 
+Average loss at step 40204/43741: 16.294266 
+Average loss at step 41078/43741: 15.159542 
+Average loss at step 41952/43741: 16.231407 
+Average loss at step 42826/43741: 16.372935 
+Average loss at step 43700/43741: 15.782823 
+Nearest to stanley: nokia, biodiversity, cantor, congregationalist, archduke, annexes, ukrainians,
+Nearest to copies: creator, supplemented, customers, electricity, sounded, elevations, panel,
+Nearest to custom: precision, testified, aa, intend, governments, wynn, reasonable,
+Nearest to operations: with, for, its, operation, special, others, example,
+Nearest to delivered: speech, died, introduce, mae, irregularly, certainly, baba,
+Nearest to flash: tracer, migrate, tent, gag, sid, rfc, chiang,
+Nearest to earl: hall, rd, baldrick, bernardo, st, survey, prospered,
+Nearest to instructions: plate, anzus, describes, competition, pole, nature, summarizes,
+Nearest to shore: hangman, wi, seas, seeds, wall, privileged, michaels,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, membranes,
+Nearest to southern: northern, north, europe, western, eastern, south, central,
+Nearest to secret: oxford, agent, service, mancha, kept, police, asimov,
+Nearest to plague: eris, maroger, brooks, popularize, torpedo, cyril, clotting,
+Nearest to contribution: express, unrecognized, northside, gated, constants, napster, ornament,
+Nearest to constitutional: law, sticky, psychologically, thought, study, bill, court,
+Nearest to drive: hard, disk, begins, note, floppy, problems, started,
+epoch time 250.06102099999953
+Average loss at step 874/43741: 15.940548 
+Average loss at step 1748/43741: 15.259735 
+Average loss at step 2622/43741: 15.041403 
+Average loss at step 3496/43741: 15.608613 
+Average loss at step 4370/43741: 15.692076 
+Average loss at step 5244/43741: 15.476931 
+Average loss at step 6118/43741: 15.111200 
+Average loss at step 6992/43741: 16.023921 
+Average loss at step 7866/43741: 15.193982 
+Average loss at step 8740/43741: 15.200012 
+Average loss at step 9614/43741: 14.954896 
+Average loss at step 10488/43741: 14.900281 
+Average loss at step 11362/43741: 15.471970 
+Average loss at step 12236/43741: 15.459596 
+Average loss at step 13110/43741: 15.820867 
+Average loss at step 13984/43741: 15.231895 
+Average loss at step 14858/43741: 15.306196 
+Average loss at step 15732/43741: 15.156832 
+Average loss at step 16606/43741: 15.223633 
+Average loss at step 17480/43741: 15.855805 
+Average loss at step 18354/43741: 15.031662 
+Average loss at step 19228/43741: 15.588468 
+Average loss at step 20102/43741: 16.089779 
+Average loss at step 20976/43741: 15.684251 
+Average loss at step 21850/43741: 15.053216 
+Average loss at step 22724/43741: 15.486769 
+Average loss at step 23598/43741: 15.363552 
+Average loss at step 24472/43741: 15.473739 
+Average loss at step 25346/43741: 15.437313 
+Average loss at step 26220/43741: 15.446342 
+Average loss at step 27094/43741: 15.535829 
+Average loss at step 27968/43741: 15.256603 
+Average loss at step 28842/43741: 15.481217 
+Average loss at step 29716/43741: 15.350308 
+Average loss at step 30590/43741: 15.616104 
+Average loss at step 31464/43741: 16.321786 
+Average loss at step 32338/43741: 15.109110 
+Average loss at step 33212/43741: 15.590457 
+Average loss at step 34086/43741: 15.173745 
+Average loss at step 34960/43741: 15.925398 
+Average loss at step 35834/43741: 16.119890 
+Average loss at step 36708/43741: 15.335219 
+Average loss at step 37582/43741: 16.140438 
+Average loss at step 38456/43741: 15.959686 
+Average loss at step 39330/43741: 15.062996 
+Average loss at step 40204/43741: 15.435784 
+Average loss at step 41078/43741: 15.684306 
+Average loss at step 41952/43741: 15.493690 
+Average loss at step 42826/43741: 15.086136 
+Average loss at step 43700/43741: 15.508014 
+Nearest to stanley: nokia, biodiversity, cantor, archduke, congregationalist, annexes, basketball,
+Nearest to copies: creator, supplemented, customers, electricity, sounded, elevations, panel,
+Nearest to custom: precision, testified, aa, intend, governments, wynn, drinking,
+Nearest to operations: with, for, operation, special, its, example, others,
+Nearest to delivered: speech, died, introduce, certainly, mae, irregularly, baba,
+Nearest to flash: tracer, tent, migrate, gag, sid, rfc, chiang,
+Nearest to earl: rd, hall, bernardo, baldrick, st, survey, prospered,
+Nearest to instructions: plate, anzus, describes, competition, pole, summarizes, cardiac,
+Nearest to shore: hangman, wi, seas, seeds, wall, privileged, xii,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, membranes,
+Nearest to southern: northern, north, europe, western, eastern, south, central,
+Nearest to secret: oxford, agent, service, police, kept, mancha, asimov,
+Nearest to plague: eris, maroger, brooks, torpedo, cyril, popularize, clotting,
+Nearest to contribution: express, unrecognized, northside, gated, constants, ornament, napster,
+Nearest to constitutional: law, sticky, psychologically, study, thought, court, bill,
+Nearest to drive: hard, disk, begins, note, floppy, problems, started,
+epoch time 248.36740700000064
+Average loss at step 874/43741: 15.769773 
+Average loss at step 1748/43741: 14.733653 
+Average loss at step 2622/43741: 14.814355 
+Average loss at step 3496/43741: 15.327597 
+Average loss at step 4370/43741: 14.834638 
+Average loss at step 5244/43741: 15.590663 
+Average loss at step 6118/43741: 15.679973 
+Average loss at step 6992/43741: 15.183875 
+Average loss at step 7866/43741: 15.397703 
+Average loss at step 8740/43741: 15.123237 
+Average loss at step 9614/43741: 15.716616 
+Average loss at step 10488/43741: 15.197976 
+Average loss at step 11362/43741: 15.006527 
+Average loss at step 12236/43741: 14.917687 
+Average loss at step 13110/43741: 14.793889 
+Average loss at step 13984/43741: 15.052988 
+Average loss at step 14858/43741: 14.422285 
+Average loss at step 15732/43741: 15.242627 
+Average loss at step 16606/43741: 15.007776 
+Average loss at step 17480/43741: 15.393355 
+Average loss at step 18354/43741: 15.139652 
+Average loss at step 19228/43741: 15.368968 
+Average loss at step 20102/43741: 15.521052 
+Average loss at step 20976/43741: 15.527558 
+Average loss at step 21850/43741: 15.280796 
+Average loss at step 22724/43741: 14.822934 
+Average loss at step 23598/43741: 15.202169 
+Average loss at step 24472/43741: 15.010546 
+Average loss at step 25346/43741: 14.774475 
+Average loss at step 26220/43741: 14.830680 
+Average loss at step 27094/43741: 15.122934 
+Average loss at step 27968/43741: 15.454926 
+Average loss at step 28842/43741: 14.812289 
+Average loss at step 29716/43741: 15.293350 
+Average loss at step 30590/43741: 14.721500 
+Average loss at step 31464/43741: 15.035672 
+Average loss at step 32338/43741: 15.270373 
+Average loss at step 33212/43741: 16.160265 
+Average loss at step 34086/43741: 15.318764 
+Average loss at step 34960/43741: 15.110957 
+Average loss at step 35834/43741: 14.805423 
+Average loss at step 36708/43741: 15.360954 
+Average loss at step 37582/43741: 15.263185 
+Average loss at step 38456/43741: 14.585566 
+Average loss at step 39330/43741: 14.721225 
+Average loss at step 40204/43741: 15.299711 
+Average loss at step 41078/43741: 15.071375 
+Average loss at step 41952/43741: 15.584374 
+Average loss at step 42826/43741: 14.949906 
+Average loss at step 43700/43741: 15.120841 
+Nearest to stanley: nokia, biodiversity, cantor, archduke, congregationalist, annexes, basketball,
+Nearest to copies: creator, customers, supplemented, electricity, sounded, elevations, slated,
+Nearest to custom: precision, governments, aa, testified, intend, wynn, drinking,
+Nearest to operations: with, for, operation, special, its, example, making,
+Nearest to delivered: speech, died, introduce, certainly, mae, irregularly, baba,
+Nearest to flash: tracer, tent, migrate, sid, gag, rfc, chiang,
+Nearest to earl: rd, hall, st, bernardo, baldrick, survey, prospered,
+Nearest to instructions: plate, describes, anzus, competition, pole, summarizes, ensure,
+Nearest to shore: hangman, wi, seas, seeds, wall, xii, privileged,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, membranes,
+Nearest to southern: northern, north, europe, western, eastern, south, central,
+Nearest to secret: oxford, service, agent, police, kept, mancha, democracy,
+Nearest to plague: eris, maroger, torpedo, brooks, cyril, popularize, clotting,
+Nearest to contribution: express, unrecognized, northside, gated, constants, ornament, napster,
+Nearest to constitutional: law, sticky, psychologically, study, thought, court, bill,
+Nearest to drive: hard, disk, begins, floppy, note, problems, wheel,
+epoch time 251.2617849999997
+Average loss at step 874/43741: 15.246826 
+Average loss at step 1748/43741: 14.550821 
+Average loss at step 2622/43741: 14.676088 
+Average loss at step 3496/43741: 14.626460 
+Average loss at step 4370/43741: 13.932909 
+Average loss at step 5244/43741: 14.906437 
+Average loss at step 6118/43741: 14.954224 
+Average loss at step 6992/43741: 14.335945 
+Average loss at step 7866/43741: 14.297563 
+Average loss at step 8740/43741: 15.276140 
+Average loss at step 9614/43741: 15.260340 
+Average loss at step 10488/43741: 14.736926 
+Average loss at step 11362/43741: 14.931849 
+Average loss at step 12236/43741: 14.505604 
+Average loss at step 13110/43741: 15.155342 
+Average loss at step 13984/43741: 14.648545 
+Average loss at step 14858/43741: 14.370401 
+Average loss at step 15732/43741: 14.979433 
+Average loss at step 16606/43741: 14.838965 
+Average loss at step 17480/43741: 15.065533 
+Average loss at step 18354/43741: 14.717534 
+Average loss at step 19228/43741: 14.836864 
+Average loss at step 20102/43741: 14.791636 
+Average loss at step 20976/43741: 14.598431 
+Average loss at step 21850/43741: 15.161595 
+Average loss at step 22724/43741: 14.910383 
+Average loss at step 23598/43741: 15.172888 
+Average loss at step 24472/43741: 14.877133 
+Average loss at step 25346/43741: 15.114933 
+Average loss at step 26220/43741: 14.260207 
+Average loss at step 27094/43741: 15.068346 
+Average loss at step 27968/43741: 14.745621 
+Average loss at step 28842/43741: 14.641858 
+Average loss at step 29716/43741: 15.198703 
+Average loss at step 30590/43741: 15.045055 
+Average loss at step 31464/43741: 15.320670 
+Average loss at step 32338/43741: 14.756770 
+Average loss at step 33212/43741: 14.754262 
+Average loss at step 34086/43741: 15.280785 
+Average loss at step 34960/43741: 14.752825 
+Average loss at step 35834/43741: 14.519747 
+Average loss at step 36708/43741: 15.243520 
+Average loss at step 37582/43741: 15.433031 
+Average loss at step 38456/43741: 15.092570 
+Average loss at step 39330/43741: 15.132661 
+Average loss at step 40204/43741: 14.926484 
+Average loss at step 41078/43741: 14.754515 
+Average loss at step 41952/43741: 15.006312 
+Average loss at step 42826/43741: 15.110655 
+Average loss at step 43700/43741: 14.562608 
+Nearest to stanley: nokia, biodiversity, cantor, archduke, robinson, basketball, annexes,
+Nearest to copies: creator, customers, electricity, supplemented, sounded, elevations, slated,
+Nearest to custom: precision, governments, aa, testified, intend, wynn, drinking,
+Nearest to operations: with, for, operation, special, its, example, making,
+Nearest to delivered: speech, died, introduce, certainly, irregularly, mae, manually,
+Nearest to flash: tracer, tent, sid, migrate, gag, memory, rfc,
+Nearest to earl: rd, hall, st, bernardo, baldrick, survey, nd,
+Nearest to instructions: plate, describes, anzus, competition, pole, ensure, summarizes,
+Nearest to shore: hangman, seas, wi, wall, seeds, xii, privileged,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, membranes,
+Nearest to southern: northern, north, europe, western, eastern, south, central,
+Nearest to secret: oxford, service, agent, police, kept, mancha, democracy,
+Nearest to plague: maroger, eris, torpedo, cyril, brooks, clotting, popularize,
+Nearest to contribution: express, unrecognized, northside, gated, constants, ornament, napster,
+Nearest to constitutional: law, sticky, psychologically, study, court, thought, bill,
+Nearest to drive: hard, disk, begins, floppy, note, problems, wheel,
+epoch time 255.635362
+Average loss at step 874/43741: 15.435818 
+Average loss at step 1748/43741: 14.254727 
+Average loss at step 2622/43741: 14.408455 
+Average loss at step 3496/43741: 14.022807 
+Average loss at step 4370/43741: 14.167783 
+Average loss at step 5244/43741: 14.411254 
+Average loss at step 6118/43741: 14.819916 
+Average loss at step 6992/43741: 14.276898 
+Average loss at step 7866/43741: 14.183698 
+Average loss at step 8740/43741: 14.753548 
+Average loss at step 9614/43741: 14.511566 
+Average loss at step 10488/43741: 14.398691 
+Average loss at step 11362/43741: 14.336163 
+Average loss at step 12236/43741: 14.437819 
+Average loss at step 13110/43741: 14.424268 
+Average loss at step 13984/43741: 14.322030 
+Average loss at step 14858/43741: 14.362956 
+Average loss at step 15732/43741: 14.806525 
+Average loss at step 16606/43741: 14.330703 
+Average loss at step 17480/43741: 14.334900 
+Average loss at step 18354/43741: 14.639258 
+Average loss at step 19228/43741: 14.375003 
+Average loss at step 20102/43741: 14.878684 
+Average loss at step 20976/43741: 15.145267 
+Average loss at step 21850/43741: 14.664169 
+Average loss at step 22724/43741: 14.574146 
+Average loss at step 23598/43741: 14.496509 
+Average loss at step 24472/43741: 14.375882 
+Average loss at step 25346/43741: 14.306764 
+Average loss at step 26220/43741: 14.389287 
+Average loss at step 27094/43741: 14.768302 
+Average loss at step 27968/43741: 14.973787 
+Average loss at step 28842/43741: 14.277327 
+Average loss at step 29716/43741: 14.268717 
+Average loss at step 30590/43741: 15.339567 
+Average loss at step 31464/43741: 14.755023 
+Average loss at step 32338/43741: 14.771686 
+Average loss at step 33212/43741: 14.517751 
+Average loss at step 34086/43741: 14.805292 
+Average loss at step 34960/43741: 14.408503 
+Average loss at step 35834/43741: 14.267624 
+Average loss at step 36708/43741: 14.404842 
+Average loss at step 37582/43741: 14.793718 
+Average loss at step 38456/43741: 14.650737 
+Average loss at step 39330/43741: 15.021790 
+Average loss at step 40204/43741: 14.721773 
+Average loss at step 41078/43741: 14.508933 
+Average loss at step 41952/43741: 15.313314 
+Average loss at step 42826/43741: 15.004122 
+Average loss at step 43700/43741: 14.747656 
+Nearest to stanley: nokia, biodiversity, cantor, archduke, robinson, basketball, annexes,
+Nearest to copies: creator, customers, electricity, supplemented, elevations, sounded, slated,
+Nearest to custom: precision, governments, intend, testified, aa, wynn, drinking,
+Nearest to operations: with, for, operation, special, its, all, example,
+Nearest to delivered: speech, died, introduce, certainly, irregularly, mae, manually,
+Nearest to flash: tracer, sid, tent, memory, migrate, gag, chiang,
+Nearest to earl: rd, hall, st, bernardo, baldrick, nd, survey,
+Nearest to instructions: plate, describes, anzus, competition, pole, ensure, punch,
+Nearest to shore: seas, hangman, wi, wall, seeds, xii, privileged,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, palermo,
+Nearest to southern: northern, north, europe, western, eastern, south, central,
+Nearest to secret: oxford, service, agent, police, kept, mancha, democracy,
+Nearest to plague: maroger, eris, cyril, torpedo, brooks, clotting, popularize,
+Nearest to contribution: express, unrecognized, northside, gated, constants, ornament, intention,
+Nearest to constitutional: law, sticky, study, psychologically, court, thought, bill,
+Nearest to drive: hard, disk, floppy, begins, note, wheel, problems,
+epoch time 256.4074069999997
+Average loss at step 874/43741: 14.736875 
+Average loss at step 1748/43741: 13.398036 
+Average loss at step 2622/43741: 14.418230 
+Average loss at step 3496/43741: 14.525730 
+Average loss at step 4370/43741: 14.063217 
+Average loss at step 5244/43741: 14.119605 
+Average loss at step 6118/43741: 13.722234 
+Average loss at step 6992/43741: 14.194795 
+Average loss at step 7866/43741: 14.214651 
+Average loss at step 8740/43741: 14.144548 
+Average loss at step 9614/43741: 14.844109 
+Average loss at step 10488/43741: 14.173623 
+Average loss at step 11362/43741: 14.331020 
+Average loss at step 12236/43741: 14.376816 
+Average loss at step 13110/43741: 14.039318 
+Average loss at step 13984/43741: 14.430507 
+Average loss at step 14858/43741: 14.009318 
+Average loss at step 15732/43741: 13.578005 
+Average loss at step 16606/43741: 13.916214 
+Average loss at step 17480/43741: 13.778426 
+Average loss at step 18354/43741: 14.919123 
+Average loss at step 19228/43741: 14.097121 
+Average loss at step 20102/43741: 14.342648 
+Average loss at step 20976/43741: 14.529781 
+Average loss at step 21850/43741: 14.436487 
+Average loss at step 22724/43741: 14.570159 
+Average loss at step 23598/43741: 14.458919 
+Average loss at step 24472/43741: 14.032204 
+Average loss at step 25346/43741: 14.388713 
+Average loss at step 26220/43741: 14.441647 
+Average loss at step 27094/43741: 14.411209 
+Average loss at step 27968/43741: 14.497272 
+Average loss at step 28842/43741: 14.364479 
+Average loss at step 29716/43741: 13.936983 
+Average loss at step 30590/43741: 14.657709 
+Average loss at step 31464/43741: 14.012505 
+Average loss at step 32338/43741: 14.692951 
+Average loss at step 33212/43741: 14.681883 
+Average loss at step 34086/43741: 14.379213 
+Average loss at step 34960/43741: 14.553634 
+Average loss at step 35834/43741: 14.493534 
+Average loss at step 36708/43741: 14.199257 
+Average loss at step 37582/43741: 14.635463 
+Average loss at step 38456/43741: 13.921016 
+Average loss at step 39330/43741: 14.605400 
+Average loss at step 40204/43741: 14.403200 
+Average loss at step 41078/43741: 14.677202 
+Average loss at step 41952/43741: 14.292171 
+Average loss at step 42826/43741: 14.594461 
+Average loss at step 43700/43741: 14.965450 
+Nearest to stanley: nokia, biodiversity, cantor, archduke, robinson, basketball, annexes,
+Nearest to copies: creator, customers, electricity, elevations, supplemented, sounded, slated,
+Nearest to custom: precision, governments, intend, aa, testified, wynn, drinking,
+Nearest to operations: for, with, operation, special, its, all, making,
+Nearest to delivered: speech, died, certainly, introduce, irregularly, mae, manually,
+Nearest to flash: tracer, memory, sid, tent, rfc, chiang, migrate,
+Nearest to earl: rd, hall, st, bernardo, baldrick, nd, survey,
+Nearest to instructions: plate, describes, anzus, competition, pole, ensure, unique,
+Nearest to shore: seas, hangman, wi, wall, xii, seeds, aleutian,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, tabernacle, palermo,
+Nearest to southern: northern, north, europe, western, eastern, south, central,
+Nearest to secret: oxford, service, police, agent, kept, mancha, democracy,
+Nearest to plague: maroger, eris, cyril, torpedo, clotting, brooks, popularize,
+Nearest to contribution: express, unrecognized, northside, gated, constants, intention, ornament,
+Nearest to constitutional: law, sticky, study, psychologically, court, thought, bill,
+Nearest to drive: hard, disk, floppy, begins, wheel, note, hit,
+epoch time 256.2156989999994
+Average loss at step 874/43741: 14.797244 
+Average loss at step 1748/43741: 14.205500 
+Average loss at step 2622/43741: 14.156504 
+Average loss at step 3496/43741: 13.937945 
+Average loss at step 4370/43741: 13.732532 
+Average loss at step 5244/43741: 13.454421 
+Average loss at step 6118/43741: 14.418604 
+Average loss at step 6992/43741: 13.838895 
+Average loss at step 7866/43741: 13.957296 
+Average loss at step 8740/43741: 14.014353 
+Average loss at step 9614/43741: 14.416603 
+Average loss at step 10488/43741: 13.767976 
+Average loss at step 11362/43741: 13.962017 
+Average loss at step 12236/43741: 14.461079 
+Average loss at step 13110/43741: 14.322681 
+Average loss at step 13984/43741: 14.246359 
+Average loss at step 14858/43741: 13.909542 
+Average loss at step 15732/43741: 13.354274 
+Average loss at step 16606/43741: 13.793035 
+Average loss at step 17480/43741: 14.545102 
+Average loss at step 18354/43741: 13.654624 
+Average loss at step 19228/43741: 13.822575 
+Average loss at step 20102/43741: 13.709333 
+Average loss at step 20976/43741: 13.861726 
+Average loss at step 21850/43741: 13.997298 
+Average loss at step 22724/43741: 14.224600 
+Average loss at step 23598/43741: 14.156840 
+Average loss at step 24472/43741: 14.264452 
+Average loss at step 25346/43741: 14.766103 
+Average loss at step 26220/43741: 13.517189 
+Average loss at step 27094/43741: 13.726375 
+Average loss at step 27968/43741: 13.686861 
+Average loss at step 28842/43741: 14.403692 
+Average loss at step 29716/43741: 14.603418 
+Average loss at step 30590/43741: 14.293410 
+Average loss at step 31464/43741: 13.966299 
+Average loss at step 32338/43741: 14.395497 
+Average loss at step 33212/43741: 14.486578 
+Average loss at step 34086/43741: 14.012189 
+Average loss at step 34960/43741: 13.414719 
+Average loss at step 35834/43741: 13.839084 
+Average loss at step 36708/43741: 14.303445 
+Average loss at step 37582/43741: 14.533230 
+Average loss at step 38456/43741: 14.266988 
+Average loss at step 39330/43741: 13.934634 
+Average loss at step 40204/43741: 14.830542 
+Average loss at step 41078/43741: 13.941565 
+Average loss at step 41952/43741: 14.527084 
+Average loss at step 42826/43741: 14.068810 
+Average loss at step 43700/43741: 14.040828 
+Nearest to stanley: nokia, biodiversity, cantor, robinson, archduke, basketball, annexes,
+Nearest to copies: creator, customers, electricity, elevations, slated, supplemented, sounded,
+Nearest to custom: precision, governments, aa, intend, testified, drinking, wynn,
+Nearest to operations: for, operation, with, special, its, all, force,
+Nearest to delivered: speech, died, certainly, introduce, irregularly, mae, manually,
+Nearest to flash: tracer, memory, sid, tent, rfc, venetian, chiang,
+Nearest to earl: rd, hall, st, bernardo, baldrick, nd, survey,
+Nearest to instructions: plate, describes, anzus, competition, pole, ensure, punch,
+Nearest to shore: seas, hangman, wi, wall, xii, seeds, aleutian,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, century, th,
+Nearest to southern: northern, north, europe, western, eastern, south, region,
+Nearest to secret: oxford, service, police, agent, kept, mancha, democracy,
+Nearest to plague: maroger, eris, cyril, torpedo, clotting, brooks, popularize,
+Nearest to contribution: express, unrecognized, gated, northside, intention, ornament, constants,
+Nearest to constitutional: law, sticky, study, court, psychologically, bill, thought,
+Nearest to drive: hard, disk, floppy, begins, wheel, note, cd,
+epoch time 254.9139099999993
+Average loss at step 874/43741: 14.757592 
+Average loss at step 1748/43741: 14.060381 
+Average loss at step 2622/43741: 13.573013 
+Average loss at step 3496/43741: 13.875160 
+Average loss at step 4370/43741: 13.687338 
+Average loss at step 5244/43741: 13.399401 
+Average loss at step 6118/43741: 13.623558 
+Average loss at step 6992/43741: 13.041474 
+Average loss at step 7866/43741: 13.425435 
+Average loss at step 8740/43741: 14.211182 
+Average loss at step 9614/43741: 14.036778 
+Average loss at step 10488/43741: 13.912523 
+Average loss at step 11362/43741: 13.929566 
+Average loss at step 12236/43741: 13.426143 
+Average loss at step 13110/43741: 14.541717 
+Average loss at step 13984/43741: 13.889668 
+Average loss at step 14858/43741: 13.574728 
+Average loss at step 15732/43741: 13.735754 
+Average loss at step 16606/43741: 14.039805 
+Average loss at step 17480/43741: 13.792680 
+Average loss at step 18354/43741: 13.860203 
+Average loss at step 19228/43741: 13.720241 
+Average loss at step 20102/43741: 14.063903 
+Average loss at step 20976/43741: 14.206943 
+Average loss at step 21850/43741: 13.800626 
+Average loss at step 22724/43741: 14.161218 
+Average loss at step 23598/43741: 13.890514 
+Average loss at step 24472/43741: 14.154103 
+Average loss at step 25346/43741: 13.672969 
+Average loss at step 26220/43741: 13.755864 
+Average loss at step 27094/43741: 13.616717 
+Average loss at step 27968/43741: 13.631697 
+Average loss at step 28842/43741: 14.341017 
+Average loss at step 29716/43741: 13.900602 
+Average loss at step 30590/43741: 13.337737 
+Average loss at step 31464/43741: 13.704693 
+Average loss at step 32338/43741: 13.517178 
+Average loss at step 33212/43741: 14.131205 
+Average loss at step 34086/43741: 13.727200 
+Average loss at step 34960/43741: 13.914314 
+Average loss at step 35834/43741: 14.443457 
+Average loss at step 36708/43741: 13.906407 
+Average loss at step 37582/43741: 14.315381 
+Average loss at step 38456/43741: 13.966376 
+Average loss at step 39330/43741: 14.092445 
+Average loss at step 40204/43741: 14.065778 
+Average loss at step 41078/43741: 13.346989 
+Average loss at step 41952/43741: 13.661670 
+Average loss at step 42826/43741: 14.061752 
+Average loss at step 43700/43741: 13.596485 
+Nearest to stanley: nokia, robinson, cantor, archduke, biodiversity, basketball, annexes,
+Nearest to copies: creator, customers, electricity, elevations, slated, wounded, sounded,
+Nearest to custom: precision, governments, intend, aa, testified, drinking, wynn,
+Nearest to operations: operation, for, special, with, its, all, force,
+Nearest to delivered: speech, died, certainly, introduce, irregularly, manually, mae,
+Nearest to flash: tracer, memory, sid, rfc, venetian, tent, chiang,
+Nearest to earl: rd, st, hall, bernardo, nd, baldrick, edwin,
+Nearest to instructions: plate, describes, anzus, competition, pole, ensure, false,
+Nearest to shore: seas, hangman, wi, wall, xii, aleutian, seeds,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, century, th,
+Nearest to southern: northern, north, europe, western, eastern, south, region,
+Nearest to secret: oxford, service, police, agent, kept, mancha, democracy,
+Nearest to plague: maroger, eris, cyril, torpedo, clotting, brooks, avignon,
+Nearest to contribution: express, unrecognized, gated, northside, intention, ornament, constants,
+Nearest to constitutional: law, study, sticky, court, psychologically, bill, thought,
+Nearest to drive: hard, disk, floppy, begins, wheel, cd, hit,
+epoch time 254.1150009999992
+Average loss at step 874/43741: 13.910742 
+Average loss at step 1748/43741: 13.650276 
+Average loss at step 2622/43741: 13.477602 
+Average loss at step 3496/43741: 13.738943 
+Average loss at step 4370/43741: 13.559354 
+Average loss at step 5244/43741: 14.173713 
+Average loss at step 6118/43741: 13.925327 
+Average loss at step 6992/43741: 13.356652 
+Average loss at step 7866/43741: 13.646059 
+Average loss at step 8740/43741: 13.325803 
+Average loss at step 9614/43741: 13.476244 
+Average loss at step 10488/43741: 13.539483 
+Average loss at step 11362/43741: 13.860899 
+Average loss at step 12236/43741: 13.782857 
+Average loss at step 13110/43741: 13.511939 
+Average loss at step 13984/43741: 13.504576 
+Average loss at step 14858/43741: 13.783896 
+Average loss at step 15732/43741: 13.489926 
+Average loss at step 16606/43741: 13.493856 
+Average loss at step 17480/43741: 14.074613 
+Average loss at step 18354/43741: 13.303310 
+Average loss at step 19228/43741: 13.909644 
+Average loss at step 20102/43741: 13.470247 
+Average loss at step 20976/43741: 13.993885 
+Average loss at step 21850/43741: 13.631124 
+Average loss at step 22724/43741: 13.798615 
+Average loss at step 23598/43741: 13.200994 
+Average loss at step 24472/43741: 13.214300 
+Average loss at step 25346/43741: 13.303913 
+Average loss at step 26220/43741: 13.326760 
+Average loss at step 27094/43741: 13.916004 
+Average loss at step 27968/43741: 13.414975 
+Average loss at step 28842/43741: 13.431914 
+Average loss at step 29716/43741: 13.203311 
+Average loss at step 30590/43741: 13.518704 
+Average loss at step 31464/43741: 13.685445 
+Average loss at step 32338/43741: 13.685934 
+Average loss at step 33212/43741: 13.575342 
+Average loss at step 34086/43741: 13.614611 
+Average loss at step 34960/43741: 13.699278 
+Average loss at step 35834/43741: 14.123448 
+Average loss at step 36708/43741: 13.549047 
+Average loss at step 37582/43741: 14.012356 
+Average loss at step 38456/43741: 13.541455 
+Average loss at step 39330/43741: 13.877870 
+Average loss at step 40204/43741: 13.579237 
+Average loss at step 41078/43741: 14.240035 
+Average loss at step 41952/43741: 13.562727 
+Average loss at step 42826/43741: 13.720382 
+Average loss at step 43700/43741: 13.719227 
+Nearest to stanley: nokia, robinson, cantor, archduke, biodiversity, basketball, ukrainians,
+Nearest to copies: creator, customers, electricity, elevations, slated, wounded, worldwide,
+Nearest to custom: precision, governments, intend, aa, testified, drinking, built,
+Nearest to operations: operation, special, for, with, force, all, u,
+Nearest to delivered: speech, certainly, died, introduce, irregularly, manually, mae,
+Nearest to flash: memory, tracer, sid, venetian, rfc, breakout, chiang,
+Nearest to earl: rd, st, hall, bernardo, nd, baldrick, edwin,
+Nearest to instructions: plate, describes, anzus, competition, pole, ensure, false,
+Nearest to shore: seas, hangman, wi, wall, xii, aleutian, seeds,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, pentagonal, century, th,
+Nearest to southern: northern, north, europe, western, eastern, south, region,
+Nearest to secret: oxford, service, police, agent, kept, mancha, democracy,
+Nearest to plague: maroger, eris, cyril, torpedo, clotting, brooks, avignon,
+Nearest to contribution: express, unrecognized, gated, northside, intention, ornament, constants,
+Nearest to constitutional: law, study, court, sticky, psychologically, bill, thought,
+Nearest to drive: hard, disk, floppy, begins, wheel, cd, hit,
+epoch time 252.35620800000015
+Average loss at step 874/43741: 14.388338 
+Average loss at step 1748/43741: 13.613480 
+Average loss at step 2622/43741: 13.069254 
+Average loss at step 3496/43741: 12.908434 
+Average loss at step 4370/43741: 13.718901 
+Average loss at step 5244/43741: 13.719822 
+Average loss at step 6118/43741: 13.641169 
+Average loss at step 6992/43741: 13.285553 
+Average loss at step 7866/43741: 13.360147 
+Average loss at step 8740/43741: 13.315697 
+Average loss at step 9614/43741: 12.931186 
+Average loss at step 10488/43741: 13.732130 
+Average loss at step 11362/43741: 13.604551 
+Average loss at step 12236/43741: 13.729638 
+Average loss at step 13110/43741: 13.247578 
+Average loss at step 13984/43741: 13.296461 
+Average loss at step 14858/43741: 13.366110 
+Average loss at step 15732/43741: 13.699782 
+Average loss at step 16606/43741: 13.203406 
+Average loss at step 17480/43741: 13.944790 
+Average loss at step 18354/43741: 13.232037 
+Average loss at step 19228/43741: 12.972200 
+Average loss at step 20102/43741: 13.481005 
+Average loss at step 20976/43741: 13.287140 
+Average loss at step 21850/43741: 13.617700 
+Average loss at step 22724/43741: 13.371065 
+Average loss at step 23598/43741: 13.429866 
+Average loss at step 24472/43741: 13.496120 
+Average loss at step 25346/43741: 13.089840 
+Average loss at step 26220/43741: 13.244973 
+Average loss at step 27094/43741: 13.369359 
+Average loss at step 27968/43741: 13.029897 
+Average loss at step 28842/43741: 13.368218 
+Average loss at step 29716/43741: 13.898192 
+Average loss at step 30590/43741: 13.363466 
+Average loss at step 31464/43741: 13.349199 
+Average loss at step 32338/43741: 13.821699 
+Average loss at step 33212/43741: 13.375646 
+Average loss at step 34086/43741: 13.561518 
+Average loss at step 34960/43741: 13.259464 
+Average loss at step 35834/43741: 13.036437 
+Average loss at step 36708/43741: 14.118837 
+Average loss at step 37582/43741: 13.187512 
+Average loss at step 38456/43741: 14.117111 
+Average loss at step 39330/43741: 13.289041 
+Average loss at step 40204/43741: 13.402197 
+Average loss at step 41078/43741: 13.379740 
+Average loss at step 41952/43741: 13.966788 
+Average loss at step 42826/43741: 13.273518 
+Average loss at step 43700/43741: 13.202552 
+Nearest to stanley: nokia, robinson, cantor, archduke, biodiversity, basketball, ukrainians,
+Nearest to copies: creator, customers, electricity, worldwide, elevations, wounded, slated,
+Nearest to custom: precision, governments, intend, testified, aa, drinking, built,
+Nearest to operations: operation, special, for, with, force, support, u,
+Nearest to delivered: speech, certainly, died, introduce, manually, irregularly, mae,
+Nearest to flash: memory, tracer, sid, venetian, breakout, rfc, chiang,
+Nearest to earl: rd, st, hall, bernardo, nd, baldrick, edwin,
+Nearest to instructions: plate, describes, anzus, competition, pole, ensure, false,
+Nearest to shore: seas, hangman, wi, wall, xii, aleutian, seeds,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, century, th, pentagonal,
+Nearest to southern: northern, north, europe, western, eastern, south, region,
+Nearest to secret: oxford, service, police, agent, kept, mancha, democracy,
+Nearest to plague: maroger, eris, cyril, torpedo, clotting, brooks, avignon,
+Nearest to contribution: express, unrecognized, gated, northside, intention, ornament, constants,
+Nearest to constitutional: law, study, court, sticky, psychologically, bill, thought,
+Nearest to drive: hard, disk, floppy, begins, wheel, cd, hit,
+epoch time 253.29676500000005
+Average loss at step 874/43741: 13.846694 
+Average loss at step 1748/43741: 13.102877 
+Average loss at step 2622/43741: 13.260022 
+Average loss at step 3496/43741: 12.876139 
+Average loss at step 4370/43741: 12.987037 
+Average loss at step 5244/43741: 12.898635 
+Average loss at step 6118/43741: 13.281341 
+Average loss at step 6992/43741: 13.160474 
+Average loss at step 7866/43741: 13.452612 
+Average loss at step 8740/43741: 13.008047 
+Average loss at step 9614/43741: 13.208910 
+Average loss at step 10488/43741: 13.554518 
+Average loss at step 11362/43741: 12.892854 
+Average loss at step 12236/43741: 13.368837 
+Average loss at step 13110/43741: 12.646133 
+Average loss at step 13984/43741: 13.485775 
+Average loss at step 14858/43741: 13.702369 
+Average loss at step 15732/43741: 13.081665 
+Average loss at step 16606/43741: 13.351736 
+Average loss at step 17480/43741: 13.279665 
+Average loss at step 18354/43741: 12.955821 
+Average loss at step 19228/43741: 13.584081 
+Average loss at step 20102/43741: 13.453665 
+Average loss at step 20976/43741: 13.262711 
+Average loss at step 21850/43741: 13.747276 
+Average loss at step 22724/43741: 13.522076 
+Average loss at step 23598/43741: 12.774431 
+Average loss at step 24472/43741: 13.274089 
+Average loss at step 25346/43741: 13.688946 
+Average loss at step 26220/43741: 13.256622 
+Average loss at step 27094/43741: 12.953684 
+Average loss at step 27968/43741: 13.407017 
+Average loss at step 28842/43741: 13.227866 
+Average loss at step 29716/43741: 13.290928 
+Average loss at step 30590/43741: 13.021978 
+Average loss at step 31464/43741: 13.047137 
+Average loss at step 32338/43741: 12.860574 
+Average loss at step 33212/43741: 13.207122 
+Average loss at step 34086/43741: 13.039534 
+Average loss at step 34960/43741: 13.524834 
+Average loss at step 35834/43741: 13.666343 
+Average loss at step 36708/43741: 13.799810 
+Average loss at step 37582/43741: 12.843508 
+Average loss at step 38456/43741: 13.534878 
+Average loss at step 39330/43741: 13.021244 
+Average loss at step 40204/43741: 13.010187 
+Average loss at step 41078/43741: 13.184616 
+Average loss at step 41952/43741: 13.242467 
+Average loss at step 42826/43741: 13.387135 
+Average loss at step 43700/43741: 13.557981 
+Nearest to stanley: nokia, robinson, cantor, archduke, basketball, biodiversity, ukrainians,
+Nearest to copies: customers, creator, worldwide, electricity, elevations, wounded, slated,
+Nearest to custom: precision, governments, intend, testified, aa, drinking, built,
+Nearest to operations: operation, special, for, with, force, support, u,
+Nearest to delivered: speech, certainly, died, introduce, manually, irregularly, mae,
+Nearest to flash: memory, tracer, sid, venetian, breakout, rfc, chiang,
+Nearest to earl: rd, st, hall, nd, bernardo, baldrick, edwin,
+Nearest to instructions: plate, describes, competition, anzus, pole, ensure, false,
+Nearest to shore: seas, hangman, wi, wall, xii, aleutian, seeds,
+Nearest to mathematicians: mesopotamia, bed, biographers, limbs, century, th, pentagonal,
+Nearest to southern: northern, north, western, europe, eastern, south, region,
+Nearest to secret: oxford, service, police, agent, kept, mancha, democracy,
+Nearest to plague: maroger, cyril, eris, torpedo, clotting, brooks, flyers,
+Nearest to contribution: express, unrecognized, gated, northside, intention, ornament, constants,
+Nearest to constitutional: law, study, court, sticky, psychologically, bill, monarchy,
+Nearest to drive: hard, disk, floppy, wheel, begins, cd, hit,
+epoch time 249.46263399999953
+Average loss at step 874/43741: 13.025889 
+Average loss at step 1748/43741: 13.473886 
+Average loss at step 2622/43741: 12.938952 
+Average loss at step 3496/43741: 13.446052 
+Average loss at step 4370/43741: 12.503383 
+Average loss at step 5244/43741: 13.219779 
+Average loss at step 6118/43741: 13.374864 
+Average loss at step 6992/43741: 13.071497 
+Average loss at step 7866/43741: 13.078308 
+Average loss at step 8740/43741: 13.202551 
+Average loss at step 9614/43741: 13.119662 
+Average loss at step 10488/43741: 12.615453 
+Average loss at step 11362/43741: 13.012877 
+Average loss at step 12236/43741: 12.308941 
+Average loss at step 13110/43741: 13.018245 
+Average loss at step 13984/43741: 13.004124 
+Average loss at step 14858/43741: 12.920889 
+Average loss at step 15732/43741: 12.732239 
+Average loss at step 16606/43741: 13.636407 
+Average loss at step 17480/43741: 13.136988 
+Average loss at step 18354/43741: 13.013618 
+Average loss at step 19228/43741: 13.071371 
+Average loss at step 20102/43741: 13.314992 
+Average loss at step 20976/43741: 12.991235 
+Average loss at step 21850/43741: 12.817139 
+Average loss at step 22724/43741: 13.274427 
+Average loss at step 23598/43741: 13.235943 
+Average loss at step 24472/43741: 12.714851 
+Average loss at step 25346/43741: 13.128753 
+Average loss at step 26220/43741: 12.965477 
+Average loss at step 27094/43741: 13.270383 
+Average loss at step 27968/43741: 13.263821 
+Average loss at step 28842/43741: 13.031521 
+Average loss at step 29716/43741: 12.878909 
+Average loss at step 30590/43741: 13.634722 
+Average loss at step 31464/43741: 13.249175 
+Average loss at step 32338/43741: 13.373420 
+Average loss at step 33212/43741: 12.995225 
+Average loss at step 34086/43741: 13.072858 
+Average loss at step 34960/43741: 12.753591 
+Average loss at step 35834/43741: 13.183104 
+Average loss at step 36708/43741: 13.102418 
+Average loss at step 37582/43741: 13.362097 
+Average loss at step 38456/43741: 12.913761 
+Average loss at step 39330/43741: 13.049761 
+Average loss at step 40204/43741: 12.641293 
+Average loss at step 41078/43741: 13.184725 
+Average loss at step 41952/43741: 13.141933 
+Average loss at step 42826/43741: 12.863594 
+Average loss at step 43700/43741: 13.324825 
+Nearest to stanley: nokia, robinson, cantor, archduke, basketball, biodiversity, marshall,
+Nearest to copies: customers, worldwide, creator, electricity, elevations, wounded, slated,
+Nearest to custom: precision, governments, intend, testified, aa, built, drinking,
+Nearest to operations: operation, special, for, with, force, support, u,
+Nearest to delivered: speech, certainly, died, manually, introduce, irregularly, mae,
+Nearest to flash: memory, tracer, sid, venetian, breakout, rfc, chiang,
+Nearest to earl: rd, st, hall, nd, bernardo, baldrick, gordon,
+Nearest to instructions: describes, plate, competition, anzus, pole, ensure, false,
+Nearest to shore: seas, hangman, wall, wi, xii, aleutian, west,
+Nearest to mathematicians: mesopotamia, biographers, limbs, bed, century, th, pentagonal,
+Nearest to southern: northern, north, western, europe, eastern, south, region,
+Nearest to secret: oxford, service, police, agent, kept, intelligence, democracy,
+Nearest to plague: maroger, cyril, eris, torpedo, clotting, bubonic, brooks,
+Nearest to contribution: express, unrecognized, gated, northside, intention, ornament, contributions,
+Nearest to constitutional: law, study, court, sticky, psychologically, bill, monarchy,
+Nearest to drive: hard, disk, floppy, wheel, begins, cd, hit,
+epoch time 249.10179299999982
+Average loss at step 874/43741: 13.466771 
+Average loss at step 1748/43741: 12.622627 
+Average loss at step 2622/43741: 12.734998 
+Average loss at step 3496/43741: 12.652684 
+Average loss at step 4370/43741: 13.326667 
+Average loss at step 5244/43741: 12.754370 
+Average loss at step 6118/43741: 12.809573 
+Average loss at step 6992/43741: 12.704229 
+Average loss at step 7866/43741: 13.347852 
+Average loss at step 8740/43741: 12.739747 
+Average loss at step 9614/43741: 12.728024 
+Average loss at step 10488/43741: 13.284671 
+Average loss at step 11362/43741: 13.057330 
+Average loss at step 12236/43741: 13.104896 
+Average loss at step 13110/43741: 12.828156 
+Average loss at step 13984/43741: 12.699014 
+Average loss at step 14858/43741: 12.521629 
+Average loss at step 15732/43741: 12.753275 
+Average loss at step 16606/43741: 12.486610 
+Average loss at step 17480/43741: 12.494755 
+Average loss at step 18354/43741: 12.653789 
+Average loss at step 19228/43741: 12.704266 
+Average loss at step 20102/43741: 12.702094 
+Average loss at step 20976/43741: 12.682945 
+Average loss at step 21850/43741: 13.233185 
+Average loss at step 22724/43741: 13.493935 
+Average loss at step 23598/43741: 12.712619 
+Average loss at step 24472/43741: 13.391311 
+Average loss at step 25346/43741: 12.684823 
+Average loss at step 26220/43741: 13.153321 
+Average loss at step 27094/43741: 13.279558 
+Average loss at step 27968/43741: 12.730531 
+Average loss at step 28842/43741: 12.892327 
+Average loss at step 29716/43741: 13.236532 
+Average loss at step 30590/43741: 13.149837 
+Average loss at step 31464/43741: 12.990362 
+Average loss at step 32338/43741: 13.186639 
+Average loss at step 33212/43741: 12.286479 
+Average loss at step 34086/43741: 12.719606 
+Average loss at step 34960/43741: 12.482293 
+Average loss at step 35834/43741: 12.961643 
+Average loss at step 36708/43741: 12.594027 
+Average loss at step 37582/43741: 12.899287 
+Average loss at step 38456/43741: 13.291274 
+Average loss at step 39330/43741: 12.975584 
+Average loss at step 40204/43741: 13.209189 
+Average loss at step 41078/43741: 13.272614 
+Average loss at step 41952/43741: 12.910846 
+Average loss at step 42826/43741: 13.051084 
+Average loss at step 43700/43741: 12.357381 
+Nearest to stanley: nokia, robinson, cantor, archduke, basketball, biodiversity, marshall,
+Nearest to copies: worldwide, customers, creator, electricity, wounded, elevations, slated,
+Nearest to custom: precision, governments, intend, testified, built, aa, drinking,
+Nearest to operations: operation, special, for, with, force, support, training,
+Nearest to delivered: speech, certainly, died, manually, introduce, irregularly, mae,
+Nearest to flash: memory, tracer, sid, breakout, venetian, rfc, chiang,
+Nearest to earl: rd, st, hall, nd, bernardo, baldrick, gordon,
+Nearest to instructions: describes, plate, competition, anzus, pole, instruction, ensure,
+Nearest to shore: seas, hangman, wall, wi, xii, aleutian, west,
+Nearest to mathematicians: mesopotamia, biographers, limbs, bed, century, th, pentagonal,
+Nearest to southern: northern, north, western, europe, eastern, south, region,
+Nearest to secret: service, oxford, police, agent, kept, intelligence, democracy,
+Nearest to plague: maroger, cyril, eris, torpedo, clotting, bubonic, flyers,
+Nearest to contribution: express, unrecognized, gated, northside, intention, contributions, ornament,
+Nearest to constitutional: law, court, study, sticky, psychologically, bill, monarchy,
+Nearest to drive: hard, disk, floppy, wheel, cd, begins, hit,
+epoch time 250.66102499999943
+Average loss at step 874/43741: 13.070969 
+Average loss at step 1748/43741: 12.591898 
+Average loss at step 2622/43741: 12.381995 
+Average loss at step 3496/43741: 12.617689 
+Average loss at step 4370/43741: 13.179901 
+Average loss at step 5244/43741: 12.741686 
+Average loss at step 6118/43741: 12.604625 
+Average loss at step 6992/43741: 12.345604 
+Average loss at step 7866/43741: 12.850123 
+Average loss at step 8740/43741: 12.686503 
+Average loss at step 9614/43741: 12.867271 
+Average loss at step 10488/43741: 12.602298 
+Average loss at step 11362/43741: 12.583127 
+Average loss at step 12236/43741: 12.983862 
+Average loss at step 13110/43741: 12.707447 
+Average loss at step 13984/43741: 12.765435 
+Average loss at step 14858/43741: 12.599741 
+Average loss at step 15732/43741: 12.915638 
+Average loss at step 16606/43741: 13.125056 
+Average loss at step 17480/43741: 12.770858 
+Average loss at step 18354/43741: 12.680409 
+Average loss at step 19228/43741: 12.827902 
+Average loss at step 20102/43741: 12.778885 
+Average loss at step 20976/43741: 12.271145 
+Average loss at step 21850/43741: 12.503372 
+Average loss at step 22724/43741: 12.365586 
+Average loss at step 23598/43741: 12.790334 
+Average loss at step 24472/43741: 13.229385 
+Average loss at step 25346/43741: 12.688284 
+Average loss at step 26220/43741: 12.985469 
+Average loss at step 27094/43741: 12.746320 
+Average loss at step 27968/43741: 12.639487 
+Average loss at step 28842/43741: 13.000833 
+Average loss at step 29716/43741: 13.086838 
+Average loss at step 30590/43741: 12.629663 
+Average loss at step 31464/43741: 12.696438 
+Average loss at step 32338/43741: 12.665139 
+Average loss at step 33212/43741: 12.500328 
+Average loss at step 34086/43741: 12.568577 
+Average loss at step 34960/43741: 12.702520 
+Average loss at step 35834/43741: 12.583886 
+Average loss at step 36708/43741: 12.326222 
+Average loss at step 37582/43741: 12.390438 
+Average loss at step 38456/43741: 12.922049 
+Average loss at step 39330/43741: 12.674446 
+Average loss at step 40204/43741: 12.836237 
+Average loss at step 41078/43741: 12.838217 
+Average loss at step 41952/43741: 12.693704 
+Average loss at step 42826/43741: 13.212994 
+Average loss at step 43700/43741: 12.868630 
+Nearest to stanley: nokia, robinson, archduke, cantor, basketball, marshall, biodiversity,
+Nearest to copies: worldwide, customers, electricity, creator, sold, wounded, elevations,
+Nearest to custom: precision, governments, built, intend, drinking, testified, aa,
+Nearest to operations: operation, special, for, with, force, support, training,
+Nearest to delivered: speech, certainly, died, manually, introduce, irregularly, mae,
+Nearest to flash: memory, tracer, sid, breakout, venetian, rfc, column,
+Nearest to earl: rd, st, hall, nd, bernardo, gordon, th,
+Nearest to instructions: describes, plate, competition, anzus, instruction, ensure, pole,
+Nearest to shore: seas, hangman, wall, xii, wi, west, aleutian,
+Nearest to mathematicians: mesopotamia, biographers, century, limbs, th, bed, loanwords,
+Nearest to southern: northern, north, western, europe, eastern, south, region,
+Nearest to secret: service, oxford, police, agent, kept, intelligence, democracy,
+Nearest to plague: maroger, cyril, eris, torpedo, clotting, bubonic, flyers,
+Nearest to contribution: express, unrecognized, gated, northside, intention, contributions, ornament,
+Nearest to constitutional: law, court, study, sticky, psychologically, bill, monarchy,
+Nearest to drive: hard, disk, floppy, wheel, cd, begins, hit,
+epoch time 253.46564899999976
+Average loss at step 874/43741: 13.285385 
+Average loss at step 1748/43741: 12.610490 
+Average loss at step 2622/43741: 12.432864 
+Average loss at step 3496/43741: 12.258563 
+Average loss at step 4370/43741: 12.763417 
+Average loss at step 5244/43741: 12.282639 
+Average loss at step 6118/43741: 11.900893 
+Average loss at step 6992/43741: 12.879749 
+Average loss at step 7866/43741: 12.218140 
+Average loss at step 8740/43741: 12.664374 
+Average loss at step 9614/43741: 12.754919 
+Average loss at step 10488/43741: 12.305691 
+Average loss at step 11362/43741: 12.146371 
+Average loss at step 12236/43741: 12.466730 
+Average loss at step 13110/43741: 12.549915 
+Average loss at step 13984/43741: 13.035813 
+Average loss at step 14858/43741: 12.298039 
+Average loss at step 15732/43741: 12.757056 
+Average loss at step 16606/43741: 12.628102 
+Average loss at step 17480/43741: 12.519544 
+Average loss at step 18354/43741: 12.225502 
+Average loss at step 19228/43741: 13.096339 
+Average loss at step 20102/43741: 12.851779 
+Average loss at step 20976/43741: 12.231349 
+Average loss at step 21850/43741: 12.197569 
+Average loss at step 22724/43741: 12.765902 
+Average loss at step 23598/43741: 12.795153 
+Average loss at step 24472/43741: 12.849300 
+Average loss at step 25346/43741: 12.467755 
+Average loss at step 26220/43741: 12.514395 
+Average loss at step 27094/43741: 12.218017 
+Average loss at step 27968/43741: 13.196692 
+Average loss at step 28842/43741: 12.424737 
+Average loss at step 29716/43741: 12.654220 
+Average loss at step 30590/43741: 12.620670 
+Average loss at step 31464/43741: 12.310883 
+Average loss at step 32338/43741: 12.777190 
+Average loss at step 33212/43741: 12.344165 
+Average loss at step 34086/43741: 12.474322 
+Average loss at step 34960/43741: 12.631334 
+Average loss at step 35834/43741: 12.887312 
+Average loss at step 36708/43741: 12.330323 
+Average loss at step 37582/43741: 12.177383 
+Average loss at step 38456/43741: 12.787879 
+Average loss at step 39330/43741: 12.501662 
+Average loss at step 40204/43741: 12.581768 
+Average loss at step 41078/43741: 12.960809 
+Average loss at step 41952/43741: 13.191744 
+Average loss at step 42826/43741: 12.471126 
+Average loss at step 43700/43741: 12.615541 
+Nearest to stanley: nokia, robinson, archduke, cantor, basketball, marshall, ukrainians,
+Nearest to copies: worldwide, customers, electricity, sold, wounded, elevations, slated,
+Nearest to custom: precision, governments, built, intend, drinking, testified, aa,
+Nearest to operations: operation, special, for, with, force, support, training,
+Nearest to delivered: speech, certainly, died, manually, irregularly, introduce, mae,
+Nearest to flash: memory, tracer, sid, breakout, venetian, rfc, column,
+Nearest to earl: rd, st, hall, nd, bernardo, gordon, th,
+Nearest to instructions: describes, plate, competition, anzus, instruction, false, ensure,
+Nearest to shore: seas, wall, hangman, west, xii, aleutian, wi,
+Nearest to mathematicians: mesopotamia, biographers, century, limbs, th, bed, loanwords,
+Nearest to southern: northern, north, western, europe, eastern, south, region,
+Nearest to secret: service, oxford, police, agent, kept, intelligence, national,
+Nearest to plague: maroger, cyril, eris, clotting, torpedo, bubonic, thru,
+Nearest to contribution: express, unrecognized, gated, northside, intention, contributions, ornament,
+Nearest to constitutional: law, court, study, sticky, bill, monarchy, psychologically,
+Nearest to drive: hard, disk, floppy, wheel, cd, begins, hit,
+epoch time 254.16206000000057
+Average loss at step 874/43741: 12.779937 
+Average loss at step 1748/43741: 12.181819 
+Average loss at step 2622/43741: 12.360305 
+Average loss at step 3496/43741: 12.198993 
+Average loss at step 4370/43741: 12.588145 
+Average loss at step 5244/43741: 12.342829 
+Average loss at step 6118/43741: 12.262906 
+Average loss at step 6992/43741: 11.716796 
+Average loss at step 7866/43741: 12.223091 
+Average loss at step 8740/43741: 12.201143 
+Average loss at step 9614/43741: 12.451986 
+Average loss at step 10488/43741: 12.389459 
+Average loss at step 11362/43741: 12.425996 
+Average loss at step 12236/43741: 12.905178 
+Average loss at step 13110/43741: 12.523637 
+Average loss at step 13984/43741: 12.058705 
+Average loss at step 14858/43741: 12.302816 
+Average loss at step 15732/43741: 12.492894 
+Average loss at step 16606/43741: 12.445839 
+Average loss at step 17480/43741: 11.914695 
+Average loss at step 18354/43741: 13.018343 
+Average loss at step 19228/43741: 12.401638 
+Average loss at step 20102/43741: 12.292822 
+Average loss at step 20976/43741: 12.499560 
+Average loss at step 21850/43741: 12.265210 
+Average loss at step 22724/43741: 12.832546 
+Average loss at step 23598/43741: 12.270076 
+Average loss at step 24472/43741: 12.327879 
+Average loss at step 25346/43741: 12.439375 
+Average loss at step 26220/43741: 12.778461 
+Average loss at step 27094/43741: 13.008306 
+Average loss at step 27968/43741: 12.429353 
+Average loss at step 28842/43741: 12.712948 
+Average loss at step 29716/43741: 12.289082 
+Average loss at step 30590/43741: 12.682090 
+Average loss at step 31464/43741: 12.704263 
+Average loss at step 32338/43741: 11.946614 
+Average loss at step 33212/43741: 12.407994 
+Average loss at step 34086/43741: 12.683869 
+Average loss at step 34960/43741: 12.903940 
+Average loss at step 35834/43741: 12.186461 
+Average loss at step 36708/43741: 13.123504 
+Average loss at step 37582/43741: 12.480757 
+Average loss at step 38456/43741: 12.189442 
+Average loss at step 39330/43741: 12.117387 
+Average loss at step 40204/43741: 12.421881 
+Average loss at step 41078/43741: 12.200097 
+Average loss at step 41952/43741: 12.364413 
+Average loss at step 42826/43741: 12.306238 
+Average loss at step 43700/43741: 12.653671 
+Nearest to stanley: nokia, robinson, archduke, cantor, basketball, marshall, ukrainians,
+Nearest to copies: worldwide, customers, sold, electricity, wounded, elevations, slated,
+Nearest to custom: precision, governments, built, drinking, intend, testified, cobol,
+Nearest to operations: operation, special, for, with, force, training, support,
+Nearest to delivered: speech, certainly, manually, died, irregularly, introduce, mae,
+Nearest to flash: memory, tracer, sid, breakout, venetian, column, rfc,
+Nearest to earl: rd, st, hall, nd, bernardo, gordon, th,
+Nearest to instructions: describes, plate, competition, instruction, anzus, false, ensure,
+Nearest to shore: seas, wall, hangman, west, xii, aleutian, wi,
+Nearest to mathematicians: mesopotamia, century, biographers, th, limbs, bed, loanwords,
+Nearest to southern: northern, north, western, europe, eastern, south, region,
+Nearest to secret: service, oxford, police, agent, kept, intelligence, national,
+Nearest to plague: maroger, cyril, eris, clotting, torpedo, bubonic, thru,
+Nearest to contribution: express, unrecognized, gated, contributions, intention, northside, ornament,
+Nearest to constitutional: law, court, study, monarchy, bill, sticky, psychologically,
+Nearest to drive: hard, disk, floppy, wheel, cd, begins, hit,
+epoch time 254.49597299999914
+Average loss at step 874/43741: 12.519373 
+Average loss at step 1748/43741: 12.188945 
+Average loss at step 2622/43741: 12.477826 
+Average loss at step 3496/43741: 11.669376 
+Average loss at step 4370/43741: 11.939685 
+Average loss at step 5244/43741: 12.497311 
+Average loss at step 6118/43741: 11.905904 
+Average loss at step 6992/43741: 12.229925 
+Average loss at step 7866/43741: 12.314247 
+Average loss at step 8740/43741: 12.142162 
+Average loss at step 9614/43741: 11.950635 
+Average loss at step 10488/43741: 12.445595 
+Average loss at step 11362/43741: 12.234590 
+Average loss at step 12236/43741: 12.185499 
+Average loss at step 13110/43741: 12.880128 
+Average loss at step 13984/43741: 11.820998 
+Average loss at step 14858/43741: 12.185849 
+Average loss at step 15732/43741: 12.504332 
+Average loss at step 16606/43741: 12.077270 
+Average loss at step 17480/43741: 12.162922 
+Average loss at step 18354/43741: 11.962082 
+Average loss at step 19228/43741: 12.308246 
+Average loss at step 20102/43741: 12.684443 
+Average loss at step 20976/43741: 12.430239 
+Average loss at step 21850/43741: 12.140751 
+Average loss at step 22724/43741: 12.579430 
+Average loss at step 23598/43741: 12.693086 
+Average loss at step 24472/43741: 12.656180 
+Average loss at step 25346/43741: 11.774156 
+Average loss at step 26220/43741: 11.874771 
+Average loss at step 27094/43741: 12.202726 
+Average loss at step 27968/43741: 12.227865 
+Average loss at step 28842/43741: 12.680013 
+Average loss at step 29716/43741: 12.024334 
+Average loss at step 30590/43741: 12.641022 
+Average loss at step 31464/43741: 12.243571 
+Average loss at step 32338/43741: 12.431417 
+Average loss at step 33212/43741: 12.332438 
+Average loss at step 34086/43741: 12.712271 
+Average loss at step 34960/43741: 12.161606 
+Average loss at step 35834/43741: 12.315790 
+Average loss at step 36708/43741: 12.152459 
+Average loss at step 37582/43741: 12.222984 
+Average loss at step 38456/43741: 12.547838 
+Average loss at step 39330/43741: 12.643718 
+Average loss at step 40204/43741: 12.152644 
+Average loss at step 41078/43741: 12.311032 
+Average loss at step 41952/43741: 11.940840 
+Average loss at step 42826/43741: 12.519441 
+Average loss at step 43700/43741: 12.383445 
+Nearest to stanley: robinson, nokia, archduke, cantor, basketball, marshall, john,
+Nearest to copies: worldwide, customers, sold, electricity, million, elevations, wounded,
+Nearest to custom: precision, governments, built, drinking, intend, testified, cobol,
+Nearest to operations: operation, special, for, training, force, with, support,
+Nearest to delivered: speech, certainly, manually, died, irregularly, introduce, mae,
+Nearest to flash: memory, tracer, sid, breakout, column, venetian, rfc,
+Nearest to earl: rd, st, hall, nd, bernardo, gordon, th,
+Nearest to instructions: describes, plate, competition, instruction, anzus, false, multiple,
+Nearest to shore: seas, wall, west, hangman, xii, aleutian, wi,
+Nearest to mathematicians: mesopotamia, century, th, biographers, limbs, loanwords, bed,
+Nearest to southern: northern, north, western, europe, eastern, south, region,
+Nearest to secret: service, oxford, police, agent, kept, intelligence, national,
+Nearest to plague: maroger, cyril, eris, clotting, torpedo, bubonic, thru,
+Nearest to contribution: express, unrecognized, contributions, gated, intention, northside, ornament,
+Nearest to constitutional: law, court, study, monarchy, bill, psychologically, sticky,
+Nearest to drive: hard, disk, floppy, wheel, cd, begins, hit,
+epoch time 255.95616300000074
+Average loss at step 874/43741: 12.757235 
+Average loss at step 1748/43741: 11.739155 
+Average loss at step 2622/43741: 12.124936 
+Average loss at step 3496/43741: 12.368073 
+Average loss at step 4370/43741: 11.975991 
+Average loss at step 5244/43741: 12.612880 
+Average loss at step 6118/43741: 12.000747 
+Average loss at step 6992/43741: 12.136757 
+Average loss at step 7866/43741: 12.106256 
+Average loss at step 8740/43741: 11.997225 
+Average loss at step 9614/43741: 12.298064 
+Average loss at step 10488/43741: 12.187970 
+Average loss at step 11362/43741: 11.904139 
+Average loss at step 12236/43741: 12.247781 
+Average loss at step 13110/43741: 12.246336 
+Average loss at step 13984/43741: 11.758484 
+Average loss at step 14858/43741: 11.757034 
+Average loss at step 15732/43741: 12.204895 
+Average loss at step 16606/43741: 12.529831 
+Average loss at step 17480/43741: 11.727912 
+Average loss at step 18354/43741: 12.283085 
+Average loss at step 19228/43741: 12.427528 
+Average loss at step 20102/43741: 12.231383 
+Average loss at step 20976/43741: 11.928340 
+Average loss at step 21850/43741: 11.852619 
+Average loss at step 22724/43741: 11.965543 
+Average loss at step 23598/43741: 12.216133 
+Average loss at step 24472/43741: 12.235127 
+Average loss at step 25346/43741: 12.133191 
+Average loss at step 26220/43741: 11.779962 
+Average loss at step 27094/43741: 11.924331 
+Average loss at step 27968/43741: 12.360139 
+Average loss at step 28842/43741: 12.589555 
+Average loss at step 29716/43741: 11.991675 
+Average loss at step 30590/43741: 11.909035 
+Average loss at step 31464/43741: 12.280444 
+Average loss at step 32338/43741: 12.230077 
+Average loss at step 33212/43741: 12.231511 
+Average loss at step 34086/43741: 12.578236 
+Average loss at step 34960/43741: 11.827770 
+Average loss at step 35834/43741: 12.137220 
+Average loss at step 36708/43741: 11.927290 
+Average loss at step 37582/43741: 12.146179 
+Average loss at step 38456/43741: 12.372157 
+Average loss at step 39330/43741: 11.889426 
+Average loss at step 40204/43741: 12.203151 
+Average loss at step 41078/43741: 12.110507 
+Average loss at step 41952/43741: 12.935451 
+Average loss at step 42826/43741: 12.543183 
+Average loss at step 43700/43741: 11.642284 
+Nearest to stanley: robinson, nokia, archduke, cantor, basketball, marshall, john,
+Nearest to copies: worldwide, customers, sold, million, electricity, elevations, wounded,
+Nearest to custom: precision, built, governments, drinking, intend, cobol, myth,
+Nearest to operations: operation, special, for, training, force, support, with,
+Nearest to delivered: speech, certainly, manually, died, irregularly, introduce, mae,
+Nearest to flash: memory, sid, tracer, breakout, column, venetian, rfc,
+Nearest to earl: rd, st, hall, nd, bernardo, gordon, th,
+Nearest to instructions: describes, plate, instruction, competition, multiple, false, anzus,
+Nearest to shore: seas, wall, west, hangman, xii, aleutian, lake,
+Nearest to mathematicians: mesopotamia, century, th, biographers, limbs, loanwords, bed,
+Nearest to southern: northern, north, western, eastern, europe, south, region,
+Nearest to secret: service, oxford, police, agent, kept, intelligence, national,
+Nearest to plague: maroger, cyril, clotting, eris, torpedo, bubonic, thru,
+Nearest to contribution: express, unrecognized, contributions, intention, gated, northside, ornament,
+Nearest to constitutional: law, court, study, monarchy, bill, proposed, psychologically,
+Nearest to drive: hard, disk, floppy, wheel, cd, begins, hit,
+epoch time 254.60069199999998
+Average loss at step 874/43741: 12.410071 
+Average loss at step 1748/43741: 12.340730 
+Average loss at step 2622/43741: 11.710965 
+Average loss at step 3496/43741: 12.093097 
+Average loss at step 4370/43741: 11.696444 
+Average loss at step 5244/43741: 11.990969 
+Average loss at step 6118/43741: 12.014080 
+Average loss at step 6992/43741: 11.935805 
+Average loss at step 7866/43741: 12.289603 
+Average loss at step 8740/43741: 11.956742 
+Average loss at step 9614/43741: 11.847300 
+Average loss at step 10488/43741: 11.668134 
+Average loss at step 11362/43741: 12.282082 
+Average loss at step 12236/43741: 11.833090 
+Average loss at step 13110/43741: 12.265165 
+Average loss at step 13984/43741: 12.086471 
+Average loss at step 14858/43741: 12.234704 
+Average loss at step 15732/43741: 12.684545 
+Average loss at step 16606/43741: 11.615936 
+Average loss at step 17480/43741: 11.832262 
+Average loss at step 18354/43741: 12.235447 
+Average loss at step 19228/43741: 11.885248 
+Average loss at step 20102/43741: 11.621432 
+Average loss at step 20976/43741: 12.253262 
+Average loss at step 21850/43741: 11.692283 
+Average loss at step 22724/43741: 12.214611 
+Average loss at step 23598/43741: 11.898398 
+Average loss at step 24472/43741: 12.028521 
+Average loss at step 25346/43741: 12.075895 
+Average loss at step 26220/43741: 11.855899 
+Average loss at step 27094/43741: 12.173363 
+Average loss at step 27968/43741: 11.713611 
+Average loss at step 28842/43741: 11.759622 
+Average loss at step 29716/43741: 11.725381 
+Average loss at step 30590/43741: 11.835223 
+Average loss at step 31464/43741: 12.139239 
+Average loss at step 32338/43741: 12.091729 
+Average loss at step 33212/43741: 11.867624 
+Average loss at step 34086/43741: 12.529478 
+Average loss at step 34960/43741: 11.818576 
+Average loss at step 35834/43741: 12.212996 
+Average loss at step 36708/43741: 12.069333 
+Average loss at step 37582/43741: 11.606166 
+Average loss at step 38456/43741: 12.366419 
+Average loss at step 39330/43741: 11.989912 
+Average loss at step 40204/43741: 11.901588 
+Average loss at step 41078/43741: 12.265838 
+Average loss at step 41952/43741: 12.012381 
+Average loss at step 42826/43741: 12.262019 
+Average loss at step 43700/43741: 11.957370 
+Nearest to stanley: robinson, nokia, archduke, cantor, basketball, marshall, john,
+Nearest to copies: worldwide, customers, sold, million, electricity, exchange, elevations,
+Nearest to custom: precision, built, governments, drinking, myth, cobol, intend,
+Nearest to operations: operation, special, for, training, force, support, u,
+Nearest to delivered: speech, certainly, manually, died, irregularly, introduce, ruled,
+Nearest to flash: memory, sid, tracer, column, breakout, venetian, rfc,
+Nearest to earl: rd, st, hall, nd, bernardo, gordon, th,
+Nearest to instructions: describes, plate, instruction, competition, multiple, false, machine,
+Nearest to shore: seas, west, wall, hangman, xii, aleutian, lake,
+Nearest to mathematicians: mesopotamia, century, th, biographers, limbs, loanwords, philosophers,
+Nearest to southern: northern, north, western, eastern, europe, south, region,
+Nearest to secret: service, oxford, police, agent, kept, intelligence, national,
+Nearest to plague: maroger, cyril, clotting, eris, torpedo, thru, bubonic,
+Nearest to contribution: express, unrecognized, contributions, intention, gated, northside, ornament,
+Nearest to constitutional: law, court, study, monarchy, bill, proposed, psychologically,
+Nearest to drive: hard, disk, floppy, wheel, cd, begins, hit,
+epoch time 249.57125200000155
+Average loss at step 874/43741: 12.401554 
+Average loss at step 1748/43741: 11.630361 
+Average loss at step 2622/43741: 12.020390 
+Average loss at step 3496/43741: 11.416169 
+Average loss at step 4370/43741: 11.792126 
+Average loss at step 5244/43741: 11.873800 
+Average loss at step 6118/43741: 11.754353 
+Average loss at step 6992/43741: 11.491508 
+Average loss at step 7866/43741: 11.798559 
+Average loss at step 8740/43741: 11.826554 
+Average loss at step 9614/43741: 11.835534 
+Average loss at step 10488/43741: 11.787984 
+Average loss at step 11362/43741: 11.595697 
+Average loss at step 12236/43741: 12.043921 
+Average loss at step 13110/43741: 11.719340 
+Average loss at step 13984/43741: 11.907912 
+Average loss at step 14858/43741: 12.709326 
+Average loss at step 15732/43741: 11.788387 
+Average loss at step 16606/43741: 11.412968 
+Average loss at step 17480/43741: 12.148191 
+Average loss at step 18354/43741: 11.996111 
+Average loss at step 19228/43741: 12.085555 
+Average loss at step 20102/43741: 11.711871 
+Average loss at step 20976/43741: 11.881568 
+Average loss at step 21850/43741: 11.495831 
+Average loss at step 22724/43741: 12.006505 
+Average loss at step 23598/43741: 12.113908 
+Average loss at step 24472/43741: 12.140960 
+Average loss at step 25346/43741: 11.331881 
+Average loss at step 26220/43741: 11.660214 
+Average loss at step 27094/43741: 11.797922 
+Average loss at step 27968/43741: 11.735491 
+Average loss at step 28842/43741: 11.728003 
+Average loss at step 29716/43741: 11.969103 
+Average loss at step 30590/43741: 12.200829 
+Average loss at step 31464/43741: 12.195448 
+Average loss at step 32338/43741: 12.231975 
+Average loss at step 33212/43741: 12.036175 
+Average loss at step 34086/43741: 11.973594 
+Average loss at step 34960/43741: 12.062698 
+Average loss at step 35834/43741: 11.900122 
+Average loss at step 36708/43741: 11.993924 
+Average loss at step 37582/43741: 11.920595 
+Average loss at step 38456/43741: 11.788426 
+Average loss at step 39330/43741: 11.950394 
+Average loss at step 40204/43741: 11.650818 
+Average loss at step 41078/43741: 12.070140 
+Average loss at step 41952/43741: 12.153232 
+Average loss at step 42826/43741: 11.786156 
+Average loss at step 43700/43741: 12.020873 
+Nearest to stanley: robinson, nokia, archduke, cantor, basketball, marshall, john,
+Nearest to copies: worldwide, customers, million, sold, electricity, exchange, wounded,
+Nearest to custom: precision, built, governments, drinking, myth, cobol, intend,
+Nearest to operations: operation, special, training, for, force, support, u,
+Nearest to delivered: speech, certainly, manually, died, irregularly, introduce, ruled,
+Nearest to flash: memory, sid, tracer, column, breakout, venetian, rfc,
+Nearest to earl: rd, st, nd, hall, gordon, bernardo, th,
+Nearest to instructions: describes, instruction, plate, competition, multiple, false, machine,
+Nearest to shore: seas, west, wall, hangman, xii, aleutian, lake,
+Nearest to mathematicians: mesopotamia, century, th, biographers, loanwords, limbs, philosophers,
+Nearest to southern: northern, north, western, eastern, europe, south, region,
+Nearest to secret: service, police, oxford, agent, kept, intelligence, national,
+Nearest to plague: maroger, cyril, clotting, eris, thru, torpedo, bubonic,
+Nearest to contribution: express, contributions, unrecognized, intention, gated, northside, ornament,
+Nearest to constitutional: law, court, study, monarchy, proposed, bill, psychologically,
+Nearest to drive: hard, disk, floppy, wheel, cd, begins, hit,
+epoch time 250.05167699999947
+Average loss at step 874/43741: 12.105704 
+Average loss at step 1748/43741: 11.872390 
+Average loss at step 2622/43741: 11.507552 
+Average loss at step 3496/43741: 11.598826 
+Average loss at step 4370/43741: 11.827768 
+Average loss at step 5244/43741: 11.439602 
+Average loss at step 6118/43741: 11.837474 
+Average loss at step 6992/43741: 11.407057 
+Average loss at step 7866/43741: 11.735880 
+Average loss at step 8740/43741: 11.775240 
+Average loss at step 9614/43741: 11.652593 
+Average loss at step 10488/43741: 11.901087 
+Average loss at step 11362/43741: 11.560196 
+Average loss at step 12236/43741: 11.833030 
+Average loss at step 13110/43741: 11.928188 
+Average loss at step 13984/43741: 11.531876 
+Average loss at step 14858/43741: 11.324753 
+Average loss at step 15732/43741: 11.684456 
+Average loss at step 16606/43741: 12.034206 
+Average loss at step 17480/43741: 11.681823 
+Average loss at step 18354/43741: 11.745131 
+Average loss at step 19228/43741: 11.749299 
+Average loss at step 20102/43741: 11.297273 
+Average loss at step 20976/43741: 11.344498 
+Average loss at step 21850/43741: 12.025417 
+Average loss at step 22724/43741: 11.809610 
+Average loss at step 23598/43741: 11.307269 
+Average loss at step 24472/43741: 12.246330 
+Average loss at step 25346/43741: 11.555986 
+Average loss at step 26220/43741: 11.606068 
+Average loss at step 27094/43741: 11.787859 
+Average loss at step 27968/43741: 12.403115 
+Average loss at step 28842/43741: 12.176105 
+Average loss at step 29716/43741: 12.472604 
+Average loss at step 30590/43741: 11.877392 
+Average loss at step 31464/43741: 11.677971 
+Average loss at step 32338/43741: 11.825763 
+Average loss at step 33212/43741: 11.227969 
+Average loss at step 34086/43741: 12.564359 
+Average loss at step 34960/43741: 11.472905 
+Average loss at step 35834/43741: 11.824484 
+Average loss at step 36708/43741: 11.834566 
+Average loss at step 37582/43741: 11.621234 
+Average loss at step 38456/43741: 11.799247 
+Average loss at step 39330/43741: 11.768558 
+Average loss at step 40204/43741: 12.005218 
+Average loss at step 41078/43741: 12.080668 
+Average loss at step 41952/43741: 11.847451 
+Average loss at step 42826/43741: 11.797619 
+Average loss at step 43700/43741: 11.554552 
+Nearest to stanley: robinson, nokia, archduke, cantor, marshall, basketball, john,
+Nearest to copies: worldwide, million, customers, sold, exchange, electricity, elevations,
+Nearest to custom: built, precision, governments, drinking, cobol, myth, intend,
+Nearest to operations: operation, special, training, for, force, support, u,
+Nearest to delivered: speech, certainly, manually, died, irregularly, ruled, introduce,
+Nearest to flash: memory, sid, column, tracer, breakout, venetian, format,
+Nearest to earl: rd, st, nd, hall, gordon, bernardo, th,
+Nearest to instructions: describes, instruction, plate, multiple, competition, machine, false,
+Nearest to shore: seas, west, wall, hangman, xii, lake, aleutian,
+Nearest to mathematicians: mesopotamia, century, th, biographers, loanwords, limbs, philosophers,
+Nearest to southern: northern, north, western, eastern, europe, south, region,
+Nearest to secret: service, police, oxford, agent, kept, intelligence, national,
+Nearest to plague: maroger, cyril, clotting, thru, eris, bubonic, torpedo,
+Nearest to contribution: express, contributions, unrecognized, intention, gated, northside, ornament,
+Nearest to constitutional: law, court, study, monarchy, proposed, bill, political,
+Nearest to drive: hard, disk, floppy, wheel, cd, begins, hit,
+epoch time 250.33250100000078
+Average loss at step 874/43741: 11.787468 
+Average loss at step 1748/43741: 11.389180 
+Average loss at step 2622/43741: 11.942035 
+Average loss at step 3496/43741: 11.868039 
+Average loss at step 4370/43741: 11.758451 
+Average loss at step 5244/43741: 12.055502 
+Average loss at step 6118/43741: 11.565874 
+Average loss at step 6992/43741: 11.687276 
+Average loss at step 7866/43741: 11.515479 
+Average loss at step 8740/43741: 11.505551 
+Average loss at step 9614/43741: 11.364075 
+Average loss at step 10488/43741: 11.513054 
+Average loss at step 11362/43741: 11.446788 
+Average loss at step 12236/43741: 11.265079 
+Average loss at step 13110/43741: 11.379847 
+Average loss at step 13984/43741: 11.316428 
+Average loss at step 14858/43741: 11.791868 
+Average loss at step 15732/43741: 11.301240 
+Average loss at step 16606/43741: 12.086935 
+Average loss at step 17480/43741: 11.967270 
+Average loss at step 18354/43741: 11.746113 
+Average loss at step 19228/43741: 11.540618 
+Average loss at step 20102/43741: 11.130828 
+Average loss at step 20976/43741: 11.400074 
+Average loss at step 21850/43741: 11.455721 
+Average loss at step 22724/43741: 11.724460 
+Average loss at step 23598/43741: 11.648468 
+Average loss at step 24472/43741: 11.521077 
+Average loss at step 25346/43741: 11.570180 
+Average loss at step 26220/43741: 11.582124 
+Average loss at step 27094/43741: 11.438233 
+Average loss at step 27968/43741: 11.432379 
+Average loss at step 28842/43741: 11.879893 
+Average loss at step 29716/43741: 12.136916 
+Average loss at step 30590/43741: 11.663293 
+Average loss at step 31464/43741: 12.093165 
+Average loss at step 32338/43741: 11.794368 
+Average loss at step 33212/43741: 11.834414 
+Average loss at step 34086/43741: 11.942487 
+Average loss at step 34960/43741: 11.535792 
+Average loss at step 35834/43741: 11.578732 
+Average loss at step 36708/43741: 11.693308 
+Average loss at step 37582/43741: 11.690967 
+Average loss at step 38456/43741: 11.915019 
+Average loss at step 39330/43741: 11.503706 
+Average loss at step 40204/43741: 11.963061 
+Average loss at step 41078/43741: 11.954673 
+Average loss at step 41952/43741: 12.015673 
+Average loss at step 42826/43741: 11.437249 
+Average loss at step 43700/43741: 11.430004 
+Nearest to stanley: robinson, nokia, archduke, cantor, marshall, basketball, john,
+Nearest to copies: worldwide, million, customers, sold, exchange, electricity, elevations,
+Nearest to custom: built, precision, governments, drinking, myth, cobol, intend,
+Nearest to operations: operation, special, training, for, force, support, u,
+Nearest to delivered: speech, certainly, manually, died, irregularly, ruled, acknowledged,
+Nearest to flash: memory, sid, column, tracer, breakout, format, venetian,
+Nearest to earl: rd, st, nd, hall, gordon, th, bernardo,
+Nearest to instructions: instruction, describes, plate, multiple, competition, machine, false,
+Nearest to shore: seas, west, wall, lake, xii, hangman, east,
+Nearest to mathematicians: mesopotamia, century, th, biographers, loanwords, philosophers, limbs,
+Nearest to southern: northern, north, western, eastern, europe, south, region,
+Nearest to secret: service, police, oxford, agent, kept, intelligence, national,
+Nearest to plague: maroger, cyril, thru, clotting, bubonic, eris, torpedo,
+Nearest to contribution: express, contributions, unrecognized, intention, gated, northside, destined,
+Nearest to constitutional: law, court, study, proposed, monarchy, bill, political,
+Nearest to drive: hard, disk, floppy, wheel, cd, hit, begins,
+epoch time 252.88157599999977
+Average loss at step 874/43741: 11.919420 
+Average loss at step 1748/43741: 10.934724 
+Average loss at step 2622/43741: 11.486297 
+Average loss at step 3496/43741: 11.468629 
+Average loss at step 4370/43741: 11.633391 
+Average loss at step 5244/43741: 11.342681 
+Average loss at step 6118/43741: 11.434864 
+Average loss at step 6992/43741: 11.681932 
+Average loss at step 7866/43741: 11.539413 
+Average loss at step 8740/43741: 11.475995 
+Average loss at step 9614/43741: 11.404237 
+Average loss at step 10488/43741: 11.345221 
+Average loss at step 11362/43741: 11.443932 
+Average loss at step 12236/43741: 11.585533 
+Average loss at step 13110/43741: 11.642543 
+Average loss at step 13984/43741: 11.970679 
+Average loss at step 14858/43741: 11.545169 
+Average loss at step 15732/43741: 11.623465 
+Average loss at step 16606/43741: 11.857803 
+Average loss at step 17480/43741: 11.043401 
+Average loss at step 18354/43741: 11.336454 
+Average loss at step 19228/43741: 11.500128 
+Average loss at step 20102/43741: 11.545481 
+Average loss at step 20976/43741: 11.802639 
+Average loss at step 21850/43741: 11.382017 
+Average loss at step 22724/43741: 11.418883 
+Average loss at step 23598/43741: 11.372927 
+Average loss at step 24472/43741: 11.366303 
+Average loss at step 25346/43741: 11.461365 
+Average loss at step 26220/43741: 11.428686 
+Average loss at step 27094/43741: 11.860913 
+Average loss at step 27968/43741: 11.498129 
+Average loss at step 28842/43741: 11.624635 
+Average loss at step 29716/43741: 11.443638 
+Average loss at step 30590/43741: 11.802910 
+Average loss at step 31464/43741: 11.577540 
+Average loss at step 32338/43741: 11.957880 
+Average loss at step 33212/43741: 11.770117 
+Average loss at step 34086/43741: 11.370828 
+Average loss at step 34960/43741: 11.767636 
+Average loss at step 35834/43741: 11.224183 
+Average loss at step 36708/43741: 11.568126 
+Average loss at step 37582/43741: 11.648261 
+Average loss at step 38456/43741: 11.840532 
+Average loss at step 39330/43741: 11.759276 
+Average loss at step 40204/43741: 11.649336 
+Average loss at step 41078/43741: 11.221976 
+Average loss at step 41952/43741: 11.905111 
+Average loss at step 42826/43741: 11.202247 
+Average loss at step 43700/43741: 11.309943 
+Nearest to stanley: robinson, nokia, archduke, cantor, marshall, basketball, john,
+Nearest to copies: worldwide, million, sold, customers, exchange, electricity, elevations,
+Nearest to custom: built, precision, governments, drinking, myth, cobol, architecture,
+Nearest to operations: operation, special, training, for, force, support, u,
+Nearest to delivered: speech, certainly, manually, died, irregularly, ruled, acknowledged,
+Nearest to flash: memory, sid, column, tracer, breakout, format, venetian,
+Nearest to earl: rd, st, nd, hall, gordon, th, bernardo,
+Nearest to instructions: instruction, describes, multiple, plate, competition, machine, data,
+Nearest to shore: seas, west, wall, lake, east, xii, aleutian,
+Nearest to mathematicians: century, mesopotamia, th, loanwords, biographers, philosophers, limbs,
+Nearest to southern: northern, north, western, eastern, europe, south, region,
+Nearest to secret: service, police, oxford, agent, kept, intelligence, national,
+Nearest to plague: maroger, cyril, thru, clotting, bubonic, eris, torpedo,
+Nearest to contribution: express, contributions, unrecognized, intention, gated, northside, destined,
+Nearest to constitutional: law, court, study, proposed, monarchy, bill, political,
+Nearest to drive: hard, disk, floppy, wheel, cd, hit, begins,
+epoch time 255.36691000000064
+Average loss at step 874/43741: 11.706416 
+Average loss at step 1748/43741: 11.585817 
+Average loss at step 2622/43741: 11.079199 
+Average loss at step 3496/43741: 11.220186 
+Average loss at step 4370/43741: 11.952139 
+Average loss at step 5244/43741: 11.394146 
+Average loss at step 6118/43741: 11.173245 
+Average loss at step 6992/43741: 11.170605 
+Average loss at step 7866/43741: 11.417571 
+Average loss at step 8740/43741: 11.356493 
+Average loss at step 9614/43741: 10.953416 
+Average loss at step 10488/43741: 11.489831 
+Average loss at step 11362/43741: 11.038764 
+Average loss at step 12236/43741: 11.049311 
+Average loss at step 13110/43741: 11.219360 
+Average loss at step 13984/43741: 11.216185 
+Average loss at step 14858/43741: 11.373093 
+Average loss at step 15732/43741: 11.485975 
+Average loss at step 16606/43741: 11.407328 
+Average loss at step 17480/43741: 11.589028 
+Average loss at step 18354/43741: 11.728896 
+Average loss at step 19228/43741: 11.945869 
+Average loss at step 20102/43741: 11.474637 
+Average loss at step 20976/43741: 11.413083 
+Average loss at step 21850/43741: 11.498387 
+Average loss at step 22724/43741: 11.110351 
+Average loss at step 23598/43741: 11.333717 
+Average loss at step 24472/43741: 11.469894 
+Average loss at step 25346/43741: 10.900782 
+Average loss at step 26220/43741: 11.803453 
+Average loss at step 27094/43741: 11.622952 
+Average loss at step 27968/43741: 11.220413 
+Average loss at step 28842/43741: 11.484323 
+Average loss at step 29716/43741: 11.511662 
+Average loss at step 30590/43741: 11.438346 
+Average loss at step 31464/43741: 11.235486 
+Average loss at step 32338/43741: 11.374629 
+Average loss at step 33212/43741: 11.930559 
+Average loss at step 34086/43741: 11.038466 
+Average loss at step 34960/43741: 11.369511 
+Average loss at step 35834/43741: 11.690286 
+Average loss at step 36708/43741: 11.466407 
+Average loss at step 37582/43741: 11.331763 
+Average loss at step 38456/43741: 11.327486 
+Average loss at step 39330/43741: 11.545416 
+Average loss at step 40204/43741: 11.627482 
+Average loss at step 41078/43741: 11.835331 
+Average loss at step 41952/43741: 11.386614 
+Average loss at step 42826/43741: 11.956241 
+Average loss at step 43700/43741: 11.625762 
+Nearest to stanley: robinson, nokia, archduke, cantor, marshall, basketball, john,
+Nearest to copies: worldwide, million, sold, customers, exchange, electricity, elevations,
+Nearest to custom: built, precision, governments, drinking, myth, cobol, architecture,
+Nearest to operations: operation, special, training, force, for, support, u,
+Nearest to delivered: speech, certainly, manually, died, irregularly, ruled, acknowledged,
+Nearest to flash: memory, sid, column, format, breakout, tracer, venetian,
+Nearest to earl: rd, st, nd, hall, gordon, th, bernardo,
+Nearest to instructions: instruction, multiple, describes, plate, competition, data, machine,
+Nearest to shore: seas, west, wall, lake, east, aleutian, xii,
+Nearest to mathematicians: century, mesopotamia, th, philosophers, loanwords, biographers, limbs,
+Nearest to southern: northern, north, western, eastern, europe, south, region,
+Nearest to secret: service, police, oxford, agent, kept, intelligence, national,
+Nearest to plague: maroger, cyril, thru, clotting, bubonic, eris, torpedo,
+Nearest to contribution: express, contributions, unrecognized, intention, gated, northside, destined,
+Nearest to constitutional: law, court, study, proposed, monarchy, bill, political,
+Nearest to drive: hard, disk, floppy, wheel, cd, hit, begins,
+epoch time 255.42998400000033
+Average loss at step 874/43741: 12.047755 
+Average loss at step 1748/43741: 11.241088 
+Average loss at step 2622/43741: 11.358365 
+Average loss at step 3496/43741: 11.505056 
+Average loss at step 4370/43741: 11.354469 
+Average loss at step 5244/43741: 11.646979 
+Average loss at step 6118/43741: 11.709814 
+Average loss at step 6992/43741: 11.347234 
+Average loss at step 7866/43741: 11.048812 
+Average loss at step 8740/43741: 11.600549 
+Average loss at step 9614/43741: 11.182864 
+Average loss at step 10488/43741: 11.524528 
+Average loss at step 11362/43741: 11.490328 
+Average loss at step 12236/43741: 11.240827 
+Average loss at step 13110/43741: 11.179186 
+Average loss at step 13984/43741: 10.979971 
+Average loss at step 14858/43741: 11.280743 
+Average loss at step 15732/43741: 11.050872 
+Average loss at step 16606/43741: 11.114232 
+Average loss at step 17480/43741: 11.281375 
+Average loss at step 18354/43741: 11.127174 
+Average loss at step 19228/43741: 11.235094 
+Average loss at step 20102/43741: 11.142097 
+Average loss at step 20976/43741: 11.569334 
+Average loss at step 21850/43741: 11.198174 
+Average loss at step 22724/43741: 11.338758 
+Average loss at step 23598/43741: 11.334306 
+Average loss at step 24472/43741: 11.106235 
+Average loss at step 25346/43741: 11.514423 
+Average loss at step 26220/43741: 10.781897 
+Average loss at step 27094/43741: 11.269512 
+Average loss at step 27968/43741: 11.585110 
+Average loss at step 28842/43741: 11.568527 
+Average loss at step 29716/43741: 11.253062 
+Average loss at step 30590/43741: 11.231295 
+Average loss at step 31464/43741: 11.402371 
+Average loss at step 32338/43741: 11.259785 
+Average loss at step 33212/43741: 10.982248 
+Average loss at step 34086/43741: 11.474770 
+Average loss at step 34960/43741: 11.010520 
+Average loss at step 35834/43741: 11.271048 
+Average loss at step 36708/43741: 11.129854 
+Average loss at step 37582/43741: 11.497580 
+Average loss at step 38456/43741: 11.510312 
+Average loss at step 39330/43741: 11.033622 
+Average loss at step 40204/43741: 11.147379 
+Average loss at step 41078/43741: 11.090197 
+Average loss at step 41952/43741: 11.406350 
+Average loss at step 42826/43741: 11.753543 
+Average loss at step 43700/43741: 11.969566 
+Nearest to stanley: robinson, nokia, archduke, cantor, marshall, basketball, john,
+Nearest to copies: worldwide, million, sold, customers, exchange, electricity, elevations,
+Nearest to custom: built, precision, governments, drinking, myth, cobol, architecture,
+Nearest to operations: operation, special, training, force, support, for, u,
+Nearest to delivered: speech, certainly, manually, died, irregularly, ruled, acknowledged,
+Nearest to flash: memory, sid, format, column, breakout, tracer, venetian,
+Nearest to earl: rd, st, nd, hall, gordon, th, ed,
+Nearest to instructions: instruction, multiple, describes, data, plate, machine, competition,
+Nearest to shore: seas, west, wall, lake, east, aleutian, xii,
+Nearest to mathematicians: century, mesopotamia, th, philosophers, loanwords, biographers, limbs,
+Nearest to southern: northern, north, western, eastern, europe, south, region,
+Nearest to secret: service, police, agent, oxford, kept, intelligence, national,
+Nearest to plague: maroger, thru, cyril, clotting, bubonic, eris, torpedo,
+Nearest to contribution: express, contributions, unrecognized, intention, gated, northside, destined,
+Nearest to constitutional: law, court, study, proposed, monarchy, bill, political,
+Nearest to drive: hard, disk, floppy, wheel, cd, hit, begins,
+epoch time 254.7100849999988
+Average loss at step 874/43741: 11.716974 
+Average loss at step 1748/43741: 11.245764 
+Average loss at step 2622/43741: 10.894532 
+Average loss at step 3496/43741: 11.129611 
+Average loss at step 4370/43741: 11.284914 
+Average loss at step 5244/43741: 11.251462 
+Average loss at step 6118/43741: 11.253734 
+Average loss at step 6992/43741: 11.095495 
+Average loss at step 7866/43741: 11.161489 
+Average loss at step 8740/43741: 11.007291 
+Average loss at step 9614/43741: 10.907290 
+Average loss at step 10488/43741: 11.155461 
+Average loss at step 11362/43741: 11.049522 
+Average loss at step 12236/43741: 10.919533 
+Average loss at step 13110/43741: 11.269949 
+Average loss at step 13984/43741: 11.595065 
+Average loss at step 14858/43741: 11.013430 
+Average loss at step 15732/43741: 11.484989 
+Average loss at step 16606/43741: 10.771211 
+Average loss at step 17480/43741: 11.330096 
+Average loss at step 18354/43741: 11.281523 
+Average loss at step 19228/43741: 11.035418 
+Average loss at step 20102/43741: 11.432771 
+Average loss at step 20976/43741: 11.167928 
+Average loss at step 21850/43741: 11.261484 
+Average loss at step 22724/43741: 11.398722 
+Average loss at step 23598/43741: 10.808074 
+Average loss at step 24472/43741: 11.374289 
+Average loss at step 25346/43741: 10.986859 
+Average loss at step 26220/43741: 11.140214 
+Average loss at step 27094/43741: 11.233747 
+Average loss at step 27968/43741: 11.275265 
+Average loss at step 28842/43741: 11.968927 
+Average loss at step 29716/43741: 11.347783 
+Average loss at step 30590/43741: 11.150989 
+Average loss at step 31464/43741: 11.828351 
+Average loss at step 32338/43741: 11.227850 
+Average loss at step 33212/43741: 11.328943 
+Average loss at step 34086/43741: 10.751791 
+Average loss at step 34960/43741: 11.445497 
+Average loss at step 35834/43741: 11.499720 
+Average loss at step 36708/43741: 11.232151 
+Average loss at step 37582/43741: 11.354762 
+Average loss at step 38456/43741: 11.067562 
+Average loss at step 39330/43741: 11.132220 
+Average loss at step 40204/43741: 11.288506 
+Average loss at step 41078/43741: 11.355749 
+Average loss at step 41952/43741: 11.479149 
+Average loss at step 42826/43741: 11.161520 
+Average loss at step 43700/43741: 10.880381 
+Nearest to stanley: robinson, nokia, archduke, cantor, marshall, basketball, john,
+Nearest to copies: worldwide, million, sold, customers, exchange, electricity, elevations,
+Nearest to custom: built, precision, governments, drinking, myth, cobol, architecture,
+Nearest to operations: operation, special, training, force, support, for, u,
+Nearest to delivered: speech, manually, certainly, died, irregularly, ruled, acknowledged,
+Nearest to flash: memory, format, sid, column, breakout, tracer, venetian,
+Nearest to earl: rd, st, nd, hall, gordon, th, ed,
+Nearest to instructions: instruction, multiple, describes, data, machine, plate, competition,
+Nearest to shore: seas, west, wall, lake, east, aleutian, xii,
+Nearest to mathematicians: century, mesopotamia, th, philosophers, loanwords, biographers, limbs,
+Nearest to southern: northern, north, western, eastern, europe, south, region,
+Nearest to secret: service, police, agent, oxford, kept, intelligence, national,
+Nearest to plague: maroger, thru, cyril, clotting, bubonic, eris, torpedo,
+Nearest to contribution: contributions, express, unrecognized, intention, gated, northside, destined,
+Nearest to constitutional: law, court, study, proposed, monarchy, bill, political,
+Nearest to drive: hard, disk, floppy, wheel, cd, hit, regular,
+epoch time 252.237169
+Average loss at step 874/43741: 11.494035 
+Average loss at step 1748/43741: 10.774973 
+Average loss at step 2622/43741: 11.117252 
+Average loss at step 3496/43741: 11.194629 
+Average loss at step 4370/43741: 10.952349 
+Average loss at step 5244/43741: 11.108921 
+Average loss at step 6118/43741: 11.326844 
+Average loss at step 6992/43741: 10.858883 
+Average loss at step 7866/43741: 10.731776 
+Average loss at step 8740/43741: 10.831424 
+Average loss at step 9614/43741: 11.179438 
+Average loss at step 10488/43741: 11.147647 
+Average loss at step 11362/43741: 10.900288 
+Average loss at step 12236/43741: 11.265931 
+Average loss at step 13110/43741: 11.239169 
+Average loss at step 13984/43741: 10.800281 
+Average loss at step 14858/43741: 10.792730 
+Average loss at step 15732/43741: 11.196541 
+Average loss at step 16606/43741: 11.273392 
+Average loss at step 17480/43741: 11.479629 
+Average loss at step 18354/43741: 11.189240 
+Average loss at step 19228/43741: 11.443742 
+Average loss at step 20102/43741: 11.116845 
+Average loss at step 20976/43741: 11.102585 
+Average loss at step 21850/43741: 11.180387 
+Average loss at step 22724/43741: 10.972934 
+Average loss at step 23598/43741: 10.975640 
+Average loss at step 24472/43741: 11.144129 
+Average loss at step 25346/43741: 11.276489 
+Average loss at step 26220/43741: 11.448967 
+Average loss at step 27094/43741: 11.062676 
+Average loss at step 27968/43741: 11.196336 
+Average loss at step 28842/43741: 11.064359 
+Average loss at step 29716/43741: 11.114664 
+Average loss at step 30590/43741: 10.899446 
+Average loss at step 31464/43741: 11.293449 
+Average loss at step 32338/43741: 11.023308 
+Average loss at step 33212/43741: 11.288942 
+Average loss at step 34086/43741: 11.130553 
+Average loss at step 34960/43741: 11.379947 
+Average loss at step 35834/43741: 11.201099 
+Average loss at step 36708/43741: 11.119007 
+Average loss at step 37582/43741: 11.210322 
+Average loss at step 38456/43741: 11.168785 
+Average loss at step 39330/43741: 11.388158 
+Average loss at step 40204/43741: 10.965590 
+Average loss at step 41078/43741: 11.428893 
+Average loss at step 41952/43741: 10.911475 
+Average loss at step 42826/43741: 11.192989 
+Average loss at step 43700/43741: 11.024145 
+Nearest to stanley: robinson, nokia, archduke, cantor, marshall, basketball, john,
+Nearest to copies: worldwide, million, sold, customers, exchange, electricity, elevations,
+Nearest to custom: built, precision, governments, drinking, myth, cobol, architecture,
+Nearest to operations: operation, special, training, force, support, for, u,
+Nearest to delivered: speech, manually, certainly, died, irregularly, ruled, acknowledged,
+Nearest to flash: memory, format, column, sid, breakout, tracer, macromedia,
+Nearest to earl: rd, st, nd, hall, gordon, th, ed,
+Nearest to instructions: instruction, multiple, data, describes, machine, minimal, plate,
+Nearest to shore: seas, west, wall, east, lake, aleutian, bank,
+Nearest to mathematicians: century, th, mesopotamia, philosophers, loanwords, biographers, limbs,
+Nearest to southern: northern, north, western, eastern, europe, south, region,
+Nearest to secret: service, police, agent, oxford, kept, intelligence, national,
+Nearest to plague: maroger, thru, cyril, clotting, bubonic, eris, accords,
+Nearest to contribution: contributions, express, unrecognized, intention, gated, northside, destined,
+Nearest to constitutional: law, court, study, proposed, monarchy, bill, political,
+Nearest to drive: hard, disk, floppy, wheel, cd, hit, regular,
+epoch time 251.0555230000009
+Average loss at step 874/43741: 11.337717 
+Average loss at step 1748/43741: 11.215998 
+Average loss at step 2622/43741: 11.032019 
+Average loss at step 3496/43741: 11.510522 
+Average loss at step 4370/43741: 10.722401 
+Average loss at step 5244/43741: 11.012742 
+Average loss at step 6118/43741: 10.753370 
+Average loss at step 6992/43741: 10.841646 
+Average loss at step 7866/43741: 10.964715 
+Average loss at step 8740/43741: 10.568654 
+Average loss at step 9614/43741: 11.071230 
+Average loss at step 10488/43741: 11.301093 
+Average loss at step 11362/43741: 11.130962 
+Average loss at step 12236/43741: 11.188926 
+Average loss at step 13110/43741: 11.214573 
+Average loss at step 13984/43741: 11.084278 
+Average loss at step 14858/43741: 11.264323 
+Average loss at step 15732/43741: 10.778378 
+Average loss at step 16606/43741: 10.899656 
+Average loss at step 17480/43741: 10.926321 
+Average loss at step 18354/43741: 10.975702 
+Average loss at step 19228/43741: 10.895619 
+Average loss at step 20102/43741: 10.824803 
+Average loss at step 20976/43741: 11.005977 
+Average loss at step 21850/43741: 11.295639 
+Average loss at step 22724/43741: 11.325674 
+Average loss at step 23598/43741: 10.950173 
+Average loss at step 24472/43741: 10.926673 
+Average loss at step 25346/43741: 11.265591 
+Average loss at step 26220/43741: 11.278206 
+Average loss at step 27094/43741: 11.024012 
+Average loss at step 27968/43741: 11.190724 
+Average loss at step 28842/43741: 11.107683 
+Average loss at step 29716/43741: 10.610036 
+Average loss at step 30590/43741: 11.025754 
+Average loss at step 31464/43741: 10.799026 
+Average loss at step 32338/43741: 11.192904 
+Average loss at step 33212/43741: 10.626749 
+Average loss at step 34086/43741: 11.002296 
+Average loss at step 34960/43741: 11.310323 
+Average loss at step 35834/43741: 10.835278 
+Average loss at step 36708/43741: 11.230149 
+Average loss at step 37582/43741: 11.358421 
+Average loss at step 38456/43741: 10.794925 
+Average loss at step 39330/43741: 10.844526 
+Average loss at step 40204/43741: 11.132278 
+Average loss at step 41078/43741: 10.962741 
+Average loss at step 41952/43741: 11.250092 
+Average loss at step 42826/43741: 10.668980 
+Average loss at step 43700/43741: 11.161389 
+Nearest to stanley: robinson, nokia, archduke, cantor, marshall, basketball, john,
+Nearest to copies: worldwide, million, sold, customers, exchange, electricity, elevations,
+Nearest to custom: built, precision, governments, myth, drinking, architecture, cobol,
+Nearest to operations: operation, special, training, force, support, u, for,
+Nearest to delivered: speech, manually, certainly, died, irregularly, ruled, acknowledged,
+Nearest to flash: memory, format, column, sid, breakout, macromedia, tracer,
+Nearest to earl: rd, st, nd, hall, gordon, th, ed,
+Nearest to instructions: instruction, multiple, data, machine, describes, minimal, competition,
+Nearest to shore: seas, west, wall, east, lake, aleutian, bank,
+Nearest to mathematicians: century, th, mesopotamia, philosophers, loanwords, biographers, limbs,
+Nearest to southern: northern, north, western, eastern, south, europe, region,
+Nearest to secret: service, police, agent, kept, oxford, intelligence, national,
+Nearest to plague: maroger, thru, cyril, clotting, bubonic, eris, accords,
+Nearest to contribution: contributions, express, unrecognized, intention, gated, northside, destined,
+Nearest to constitutional: law, court, proposed, study, monarchy, bill, reform,
+Nearest to drive: hard, disk, floppy, wheel, cd, hit, regular,
+epoch time 252.9460029999991
+Average loss at step 874/43741: 11.059228 
+Average loss at step 1748/43741: 10.862187 
+Average loss at step 2622/43741: 10.571397 
+Average loss at step 3496/43741: 10.593249 
+Average loss at step 4370/43741: 11.048048 
+Average loss at step 5244/43741: 10.985198 
+Average loss at step 6118/43741: 10.554158 
+Average loss at step 6992/43741: 11.283632 
+Average loss at step 7866/43741: 11.174570 
+Average loss at step 8740/43741: 11.074086 
+Average loss at step 9614/43741: 10.816409 
+Average loss at step 10488/43741: 11.094212 
+Average loss at step 11362/43741: 10.675827 
+Average loss at step 12236/43741: 10.621297 
+Average loss at step 13110/43741: 10.431703 
+Average loss at step 13984/43741: 11.044769 
+Average loss at step 14858/43741: 10.856905 
+Average loss at step 15732/43741: 10.925955 
+Average loss at step 16606/43741: 10.866575 
+Average loss at step 17480/43741: 10.794388 
+Average loss at step 18354/43741: 10.735602 
+Average loss at step 19228/43741: 10.848024 
+Average loss at step 20102/43741: 10.766077 
+Average loss at step 20976/43741: 10.755224 
+Average loss at step 21850/43741: 10.978365 
+Average loss at step 22724/43741: 11.045757 
+Average loss at step 23598/43741: 10.730516 
+Average loss at step 24472/43741: 10.807519 
+Average loss at step 25346/43741: 10.935207 
+Average loss at step 26220/43741: 11.248489 
+Average loss at step 27094/43741: 10.856100 
+Average loss at step 27968/43741: 10.817982 
+Average loss at step 28842/43741: 10.935061 
+Average loss at step 29716/43741: 11.047995 
+Average loss at step 30590/43741: 11.631510 
+Average loss at step 31464/43741: 10.977700 
+Average loss at step 32338/43741: 11.200084 
+Average loss at step 33212/43741: 11.140712 
+Average loss at step 34086/43741: 11.283043 
+Average loss at step 34960/43741: 11.037585 
+Average loss at step 35834/43741: 10.641406 
+Average loss at step 36708/43741: 10.904259 
+Average loss at step 37582/43741: 11.282108 
+Average loss at step 38456/43741: 11.202962 
+Average loss at step 39330/43741: 11.296677 
+Average loss at step 40204/43741: 11.107687 
+Average loss at step 41078/43741: 11.126311 
+Average loss at step 41952/43741: 11.038784 
+Average loss at step 42826/43741: 10.607870 
+Average loss at step 43700/43741: 10.936724 
+Nearest to stanley: robinson, nokia, archduke, marshall, cantor, basketball, kubrick,
+Nearest to copies: worldwide, million, sold, customers, exchange, elevations, electricity,
+Nearest to custom: built, precision, governments, myth, architecture, drinking, cobol,
+Nearest to operations: operation, special, training, force, support, u, for,
+Nearest to delivered: speech, manually, certainly, died, irregularly, ruled, acknowledged,
+Nearest to flash: memory, format, column, sid, macromedia, breakout, tracer,
+Nearest to earl: rd, st, nd, hall, gordon, th, ed,
+Nearest to instructions: instruction, multiple, data, machine, minimal, describes, false,
+Nearest to shore: seas, west, wall, east, lake, bank, aleutian,
+Nearest to mathematicians: century, th, philosophers, mesopotamia, loanwords, biographers, speakers,
+Nearest to southern: northern, north, western, eastern, south, europe, region,
+Nearest to secret: service, police, agent, kept, oxford, intelligence, national,
+Nearest to plague: maroger, thru, cyril, bubonic, clotting, accords, eris,
+Nearest to contribution: contributions, express, intention, unrecognized, destined, gated, northside,
+Nearest to constitutional: law, court, proposed, study, monarchy, bill, reform,
+Nearest to drive: hard, disk, floppy, wheel, cd, hit, cars,
+epoch time 250.572897
+Average loss at step 874/43741: 11.429590 
+Average loss at step 1748/43741: 10.753733 
+Average loss at step 2622/43741: 10.882310 
+Average loss at step 3496/43741: 10.855416 
+Average loss at step 4370/43741: 10.568042 
+Average loss at step 5244/43741: 10.570568 
+Average loss at step 6118/43741: 10.491784 
+Average loss at step 6992/43741: 11.025927 
+Average loss at step 7866/43741: 10.623566 
+Average loss at step 8740/43741: 11.109476 
+Average loss at step 9614/43741: 11.119222 
+Average loss at step 10488/43741: 10.719302 
+Average loss at step 11362/43741: 11.021893 
+Average loss at step 12236/43741: 11.019994 
+Average loss at step 13110/43741: 10.556972 
+Average loss at step 13984/43741: 10.655984 
+Average loss at step 14858/43741: 10.850034 
+Average loss at step 15732/43741: 11.082474 
+Average loss at step 16606/43741: 10.613309 
+Average loss at step 17480/43741: 10.935675 
+Average loss at step 18354/43741: 10.889919 
+Average loss at step 19228/43741: 10.810906 
+Average loss at step 20102/43741: 10.553988 
+Average loss at step 20976/43741: 10.844410 
+Average loss at step 21850/43741: 10.818660 
+Average loss at step 22724/43741: 10.464053 
+Average loss at step 23598/43741: 11.027668 
+Average loss at step 24472/43741: 10.624181 
+Average loss at step 25346/43741: 10.630078 
+Average loss at step 26220/43741: 10.610589 
+Average loss at step 27094/43741: 10.688064 
+Average loss at step 27968/43741: 11.125944 
+Average loss at step 28842/43741: 10.872777 
+Average loss at step 29716/43741: 11.150898 
+Average loss at step 30590/43741: 10.397426 
+Average loss at step 31464/43741: 10.865136 
+Average loss at step 32338/43741: 10.797284 
+Average loss at step 33212/43741: 11.373257 
+Average loss at step 34086/43741: 10.994872 
+Average loss at step 34960/43741: 10.456490 
+Average loss at step 35834/43741: 10.915454 
+Average loss at step 36708/43741: 10.749623 
+Average loss at step 37582/43741: 10.951581 
+Average loss at step 38456/43741: 11.139715 
+Average loss at step 39330/43741: 10.961078 
+Average loss at step 40204/43741: 11.045060 
+Average loss at step 41078/43741: 10.865794 
+Average loss at step 41952/43741: 11.020853 
+Average loss at step 42826/43741: 11.026491 
+Average loss at step 43700/43741: 11.253387 
+Nearest to stanley: robinson, nokia, archduke, marshall, cantor, basketball, kubrick,
+Nearest to copies: worldwide, million, sold, customers, exchange, elevations, electricity,
+Nearest to custom: built, precision, architecture, myth, governments, drinking, cobol,
+Nearest to operations: operation, special, training, force, support, u, for,
+Nearest to delivered: speech, manually, certainly, died, irregularly, ruled, acknowledged,
+Nearest to flash: memory, format, column, sid, macromedia, breakout, tracer,
+Nearest to earl: rd, st, nd, hall, gordon, ed, th,
+Nearest to instructions: instruction, multiple, data, machine, minimal, comments, describes,
+Nearest to shore: seas, west, wall, east, lake, bank, aleutian,
+Nearest to mathematicians: century, th, philosophers, mesopotamia, loanwords, biographers, speakers,
+Nearest to southern: northern, north, western, eastern, south, europe, region,
+Nearest to secret: service, police, agent, kept, oxford, intelligence, national,
+Nearest to plague: maroger, thru, cyril, bubonic, clotting, accords, eris,
+Nearest to contribution: contributions, express, intention, unrecognized, destined, gated, northside,
+Nearest to constitutional: law, court, proposed, study, monarchy, bill, reform,
+Nearest to drive: hard, disk, floppy, wheel, cd, hit, cars,
+epoch time 250.54303199999958
