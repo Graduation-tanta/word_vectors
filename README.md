@@ -3,7 +3,7 @@ My implementations for word vector representation algorithms (word2vec and glove
 I also implemented word2vec evaluation as in the paper but the results aren't good and needs more tuning that I leave as future work for me :(
 I pushed my trained wordvectors in the same repo :3 only 15mb .. so small :)
 
-## File Structure
+## Directory Structure
     .
     ├── eval_data               
     │   ├── questions-phrases.txt           
