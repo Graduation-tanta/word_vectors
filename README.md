@@ -1,4 +1,4 @@
-# word_vectors
+# Word Vectors
 My implementations for word vector representation algorithms (word2vec and glove) on text8 dataset 
 I also implemented word2vec evaluation as in the paper but the results aren't good and needs more tuning that I leave as future work for me :(
 I pushed my trained wordvectors in the same repo :3 only 15mb .. so small :)
@@ -136,6 +136,20 @@ department           0.3684
 agents               0.3684
 national             0.3607
 ```
+## File Description
+  .
+    ├── eval_data               
+    │   ├── questions-phrases.txt           
+    │   └──questions-words.txt         
+    ├── glove                    # glove model
+    |   ├── glove_temp           # my trained glove word vectors  
+    │   └── myglove.py                # glove model
+    ├── word2vec                    # Test files (alternatively `spec` or `tests`)
+    │   ├── mygensim.py        # word2vec gensim model
+    │   └── tf_myword2vec.py        # my word2vec model
+    ├── tensorboard visualization.py # saves a checkpoint for tensorboard
+    └── eval_wordvectors.py     # evaluation script for wordvectors and demo of KNN
+    
 
 ## Resources
 
