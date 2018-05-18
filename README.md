@@ -8,14 +8,14 @@ I pushed my trained wordvectors in the same repo :3 only 15mb .. so small :)
     ├── eval_data               
     │   ├── questions-phrases.txt           
     │   └──questions-words.txt         
-    ├── glove                    # glove model
-    |   ├── glove_temp           # my trained glove word vectors  
-    │   └── myglove.py                # glove model
-    ├── word2vec                    # Test files (alternatively `spec` or `tests`)
-    │   ├── mygensim.py        # word2vec gensim model
-    │   └── tf_myword2vec.py        # my word2vec model
+    ├── glove                        # glove model
+    |   ├── glove_temp               # my trained glove word vectors  
+    │   └── myglove.py               # glove model
+    ├── word2vec                     # Test files (alternatively `spec` or `tests`)
+    │   ├── mygensim.py              # word2vec gensim model
+    │   └── tf_myword2vec.py         # my word2vec model
     ├── tensorboard visualization.py # saves a checkpoint for tensorboard
-    └── eval_wordvectors.py     # evaluation script for wordvectors and demo of KNN
+    └── eval_wordvectors.py          # evaluation script for wordvectors and demo of KNN
     
 ## k nearest neighbours are still funny :D
 
